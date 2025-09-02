@@ -4,6 +4,7 @@ import { L1 } from "./data/L1";
 import { L3, L3UniqueSpecies } from "./data/L3";
 import SummaryCard from "./components/SummaryCard";
 import PieChartWithDialog from "./components/PieChartWithDialog";
+import BarChartIUCN from "./components/BarChartIUCN";
 import SpeciesTable from "./components/SpeciesTable";
 
 function App() {
@@ -46,6 +47,10 @@ function App() {
                 criticallyEndangered={criticallyEndangeredL1Count}
               />
               <Typography variant="h6" mt={3} mb={1}>
+                Distribution by IUCN Status (Bar Chart)
+              </Typography>
+              <BarChartIUCN data={L1} />
+              <Typography variant="h6" mt={3} mb={1}>
                 Distribution by IUCN Status (Pie Chart)
               </Typography>
               <PieChartWithDialog data={L1} />
@@ -66,6 +71,10 @@ function App() {
                 endangered={endangeredL3Count}
                 criticallyEndangered={criticallyEndangeredL3Count}
               />
+              <Typography variant="h6" mt={3} mb={1}>
+                Distribution by IUCN Status (Bar Chart)
+              </Typography>
+              <BarChartIUCN data={L3} />
               <Typography variant="h6" mt={3} mb={1}>
                 Distribution by IUCN Status (Pie Chart)
               </Typography>

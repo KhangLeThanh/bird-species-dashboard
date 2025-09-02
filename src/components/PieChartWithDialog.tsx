@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { Pie } from "react-chartjs-2";
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
+import type { ChartEvent, ActiveElement } from "chart.js";
+
 import {
   Dialog,
   DialogTitle,
@@ -13,18 +15,18 @@ import {
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
-interface StatusData {
+type StatusData = {
   status: string;
   acronym: string;
   count: number;
   percentage: number;
-}
+};
 
-interface Props {
+type PieChartData = {
   data: StatusData[];
-}
+};
 
-export default function PieChartWithDialog({ data }: Props) {
+export default function PieChartWithDialog({ data }: PieChartData) {
   const [open, setOpen] = useState(false);
   const [selectedStatus, setSelectedStatus] = useState<StatusData | null>(null);
 
@@ -50,11 +52,19 @@ export default function PieChartWithDialog({ data }: Props) {
   };
 
   const options = {
-    onClick: (_: any, elements: any) => {
+    onClick: (event: ChartEvent, elements: ActiveElement[]) => {
       if (elements.length > 0) {
         const index = elements[0].index;
         setSelectedStatus(data[index]);
         setOpen(true);
+      }
+    },
+    onHover: (event: ChartEvent, elements: ActiveElement[]) => {
+      const canvas = event.native?.target as HTMLCanvasElement;
+      if (elements.length > 0) {
+        canvas.style.cursor = "pointer";
+      } else {
+        canvas.style.cursor = "default";
       }
     },
   };
