@@ -6,18 +6,42 @@ import {
   TableHead,
   TableRow,
   Paper,
+  TableSortLabel,
 } from "@mui/material";
+import { useState } from "react";
 
-type SpeciesTableType = {
-  data: {
-    acronym: string;
-    status: string;
-    count: number;
-    percentage: number;
-  }[];
+type Species = {
+  acronym: string;
+  status: string;
+  count: number;
+  percentage: number;
 };
 
+type SpeciesTableType = {
+  data: Species[];
+};
+
+type Order = "asc" | "desc";
+
 export default function SpeciesTable({ data }: SpeciesTableType) {
+  const [order, setOrder] = useState<Order>("asc");
+  const [orderBy, setOrderBy] = useState<keyof Species>("count");
+
+  const handleSort = (property: keyof Species) => {
+    const isAsc = orderBy === property && order === "asc";
+    setOrder(isAsc ? "desc" : "asc");
+    setOrderBy(property);
+  };
+
+  const sortedData = [...data].sort((a, b) => {
+    if (orderBy === "count" || orderBy === "percentage") {
+      return order === "asc"
+        ? a[orderBy] - b[orderBy]
+        : b[orderBy] - a[orderBy];
+    }
+    return 0;
+  });
+
   return (
     <TableContainer component={Paper} sx={{ mt: 3 }}>
       <Table>
@@ -25,12 +49,28 @@ export default function SpeciesTable({ data }: SpeciesTableType) {
           <TableRow>
             <TableCell>IUCN Acronym</TableCell>
             <TableCell>Status</TableCell>
-            <TableCell>Count</TableCell>
-            <TableCell>Percentage</TableCell>
+            <TableCell sortDirection={orderBy === "count" ? order : false}>
+              <TableSortLabel
+                active={orderBy === "count"}
+                direction={orderBy === "count" ? order : "asc"}
+                onClick={() => handleSort("count")}
+              >
+                Count
+              </TableSortLabel>
+            </TableCell>
+            <TableCell sortDirection={orderBy === "percentage" ? order : false}>
+              <TableSortLabel
+                active={orderBy === "percentage"}
+                direction={orderBy === "percentage" ? order : "asc"}
+                onClick={() => handleSort("percentage")}
+              >
+                Percentage
+              </TableSortLabel>
+            </TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
-          {data.map((d) => {
+          {sortedData.map((d) => {
             let bgColor = "#fff";
             let fontColor = "#000";
 
