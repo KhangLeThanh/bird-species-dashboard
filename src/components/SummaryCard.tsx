@@ -23,17 +23,25 @@ export default function SummaryCard({
       </Grid>
       <Grid size={{ xs: 12, sm: 4 }}>
         <Card>
-          <CardContent>
-            <Typography variant="subtitle2">Endangered</Typography>
-            <Typography variant="h5">{endangered}</Typography>
+          <CardContent sx={{ backgroundColor: "#f44336" }}>
+            <Typography variant="subtitle2" sx={{ color: "#fff" }}>
+              Endangered
+            </Typography>
+            <Typography variant="h5" sx={{ color: "#fff" }}>
+              {endangered}
+            </Typography>
           </CardContent>
         </Card>
       </Grid>
       <Grid size={{ xs: 12, sm: 4 }}>
         <Card>
-          <CardContent>
-            <Typography variant="subtitle2">Critically Endangered</Typography>
-            <Typography variant="h5">{criticallyEndangered}</Typography>
+          <CardContent sx={{ backgroundColor: "#b71c1c" }}>
+            <Typography variant="subtitle2" sx={{ color: "#fff" }}>
+              Critically Endangered
+            </Typography>
+            <Typography variant="h5" sx={{ color: "#fff" }}>
+              {criticallyEndangered}
+            </Typography>
           </CardContent>
         </Card>
       </Grid>

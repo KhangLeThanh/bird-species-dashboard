@@ -32,20 +32,27 @@ export default function SpeciesTable({ data }: SpeciesTableType) {
         <TableBody>
           {data.map((d) => {
             let bgColor = "#fff";
+            let fontColor = "#000";
 
             if (d.count > 0) {
-              if (d.acronym === "EN") bgColor = "#ffcccc";
-              if (d.acronym === "CR") bgColor = "#ff9999";
+              if (d.acronym === "EN") {
+                bgColor = "#f44336";
+                fontColor = "#fff";
+              }
+              if (d.acronym === "CR") {
+                bgColor = "#b71c1c";
+                fontColor = "#fff";
+              }
             } else if (d.count === 0) {
               bgColor = "#f5f5f5";
             }
 
             return (
               <TableRow key={d.acronym} sx={{ bgcolor: bgColor }}>
-                <TableCell>{d.acronym}</TableCell>
-                <TableCell>{d.status}</TableCell>
-                <TableCell>{d.count}</TableCell>
-                <TableCell>{d.percentage}%</TableCell>
+                <TableCell sx={{ color: fontColor }}>{d.acronym}</TableCell>
+                <TableCell sx={{ color: fontColor }}>{d.status}</TableCell>
+                <TableCell sx={{ color: fontColor }}>{d.count}</TableCell>
+                <TableCell sx={{ color: fontColor }}>{d.percentage}%</TableCell>
               </TableRow>
             );
           })}
