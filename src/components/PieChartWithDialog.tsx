@@ -12,6 +12,7 @@ import {
   Grid,
   Box,
 } from "@mui/material";
+import { colorsChart } from "../constants/colorChart";
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
@@ -30,22 +31,15 @@ export default function PieChartWithDialog({ data }: PieChartData) {
   const [open, setOpen] = useState(false);
   const [selectedStatus, setSelectedStatus] = useState<StatusData | null>(null);
 
-  const colors = {
-    LC: "#4caf50",
-    NT: "#ffeb3b",
-    VU: "#ff9800",
-    EN: "#f44336",
-    CR: "#b71c1c",
-    default: "#9e9e9e",
-  };
-
   const chartData = {
     labels: data.map((d) => d.status),
     datasets: [
       {
         data: data.map((d) => d.count),
         backgroundColor: data.map(
-          (d) => colors[d.acronym as keyof typeof colors] || colors.default
+          (d) =>
+            colorsChart[d.acronym as keyof typeof colorsChart] ||
+            colorsChart.default
         ),
       },
     ],
