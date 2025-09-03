@@ -14,6 +14,7 @@ The app helps both technical and non-technical audiences explore species distrib
 - **Interactive pie chart**:
   - Color-coded by IUCN status
   - Clickable segments open a dialog listing species in that category
+  - **Searchable species list**: In the dialog, users can filter the species by typing keywords. Only matching species are displayed, and duplicates are removed.
 - **Bar chart** with:
   - Color-coded categories matching threat levels
   - Counts displayed as data labels

@@ -12,6 +12,7 @@ import {
   Button,
   Grid,
   Box,
+  TextField,
 } from "@mui/material";
 import { colorsChart } from "../constants/colorChart";
 
@@ -38,6 +39,7 @@ export default function PieChartWithDialog({ data, species }: PieChartData) {
   const [open, setOpen] = useState(false);
   const [selectedStatus, setSelectedStatus] = useState<StatusData | null>(null);
   const [speciesList, setSpeciesList] = useState<Species[]>([]);
+  const [searchTerm, setSearchTerm] = useState("");
 
   const chartData = {
     labels: data.map((d) => d.status),
@@ -66,9 +68,14 @@ export default function PieChartWithDialog({ data, species }: PieChartData) {
       if (elements.length > 0) {
         const index = elements[0].index;
         const clickedStatus = data[index];
-        const list = species.filter((s) => s.status === clickedStatus.acronym);
+        const list = species.filter(
+          (s) =>
+            s.status.trim().toLowerCase() ===
+            clickedStatus.acronym.trim().toLowerCase()
+        );
         setSelectedStatus(clickedStatus);
         setSpeciesList(list);
+        setSearchTerm("");
         setOpen(true);
       }
     },
@@ -77,6 +84,19 @@ export default function PieChartWithDialog({ data, species }: PieChartData) {
       canvas.style.cursor = elements.length ? "pointer" : "default";
     },
   };
+
+  // Filter and remove duplicates
+  const filteredSpecies = Array.from(
+    new Set(
+      speciesList
+        .filter((s) => {
+          const name = s.name.trim().toLowerCase();
+          const search = searchTerm.trim().toLowerCase();
+          return search === "" ? true : name.includes(search);
+        })
+        .map((s) => s.name.trim())
+    )
+  ).map((name) => ({ name }));
 
   return (
     <Grid container justifyContent="center" spacing={2}>
@@ -97,15 +117,30 @@ export default function PieChartWithDialog({ data, species }: PieChartData) {
               <Typography gutterBottom>
                 Percentage: {selectedStatus?.percentage}%
               </Typography>
+
               {speciesList.length > 0 ? (
                 <>
                   <Typography variant="subtitle1" gutterBottom>
                     Species List:
                   </Typography>
-                  <Box component="ul" sx={{ pl: 2 }}>
-                    {speciesList.map((s) => (
-                      <li key={s.name}>{s.name}</li>
-                    ))}
+                  <TextField
+                    fullWidth
+                    placeholder="Search species..."
+                    variant="outlined"
+                    size="small"
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                    sx={{ mb: 1 }}
+                  />
+                  <Box
+                    component="ul"
+                    sx={{ pl: 2, maxHeight: 300, overflowY: "auto" }}
+                  >
+                    {filteredSpecies.length > 0 ? (
+                      filteredSpecies.map((s) => <li key={s.name}>{s.name}</li>)
+                    ) : (
+                      <Typography>No matching species found</Typography>
+                    )}
                   </Box>
                 </>
               ) : (
