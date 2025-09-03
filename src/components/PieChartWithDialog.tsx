@@ -89,7 +89,7 @@ export default function PieChartWithDialog({ data, species }: PieChartData) {
             fullWidth
             maxWidth="sm"
           >
-            <DialogTitle>{selectedStatus?.status}</DialogTitle>
+            <DialogTitle>Status: {selectedStatus?.status}</DialogTitle>
             <DialogContent dividers>
               <Typography gutterBottom>
                 Count: {selectedStatus?.count}
@@ -98,11 +98,16 @@ export default function PieChartWithDialog({ data, species }: PieChartData) {
                 Percentage: {selectedStatus?.percentage}%
               </Typography>
               {speciesList.length > 0 ? (
-                <Box component="ul" sx={{ pl: 2 }}>
-                  {speciesList.map((s) => (
-                    <li key={s.name}>{s.name}</li>
-                  ))}
-                </Box>
+                <>
+                  <Typography variant="subtitle1" gutterBottom>
+                    Species List:
+                  </Typography>
+                  <Box component="ul" sx={{ pl: 2 }}>
+                    {speciesList.map((s) => (
+                      <li key={s.name}>{s.name}</li>
+                    ))}
+                  </Box>
+                </>
               ) : (
                 <Typography>No species recorded</Typography>
               )}
