@@ -82,7 +82,9 @@ export default function PieChartWithDialog({ data }: PieChartData) {
                 <Typography>No species recorded</Typography>
               )}
             </DialogContent>
-            <Button onClick={() => setOpen(false)}>Close</Button>
+            <Button variant="contained" onClick={() => setOpen(false)}>
+              Close
+            </Button>
           </Dialog>
         </Box>
       </Grid>
