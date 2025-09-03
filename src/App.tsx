@@ -12,7 +12,7 @@ import { BirdStatus } from "./enum";
 
 function App() {
   const [tab, setTab] = useState("1");
-  const handleChange = (event: React.SyntheticEvent, newValue: string) => {
+  const handleChange = (_event: React.SyntheticEvent, newValue: string) => {
     setTab(newValue);
   };
   const totalL1Species = L1.reduce((sum, bird) => sum + bird.count, 0);

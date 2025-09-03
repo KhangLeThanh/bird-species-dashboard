@@ -22,7 +22,7 @@ describe("SpeciesTable", () => {
   });
 
   it("applies special background color for endangered", () => {
-    const { container } = render(<SpeciesTable data={mockData} />);
+    render(<SpeciesTable data={mockData} />);
     const endangeredRow = screen.getByText("Endangered").closest("tr");
 
     expect(endangeredRow).toHaveStyle("background-color: #f44336");
