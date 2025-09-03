@@ -1,1006 +1,1006 @@
 [
   {
-    "Scientific Name": "Aegolius harrisii",
-    "Threat Status": "LC"
+    "name": "Aegolius harrisii",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Alectrurus tricolor",
-    "Threat Status": "VU"
+    "name": "Alectrurus tricolor",
+    "status": "VU"
   },
   {
-    "Scientific Name": "Amaurospiza moesta",
-    "Threat Status": "LC"
+    "name": "Amaurospiza moesta",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Anabacerthia amaurotis",
-    "Threat Status": "LC"
+    "name": "Anabacerthia amaurotis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Anabazenops fuscus",
-    "Threat Status": "LC"
+    "name": "Anabazenops fuscus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ara ararauna",
-    "Threat Status": "LC"
+    "name": "Ara ararauna",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ara chloropterus",
-    "Threat Status": "LC"
+    "name": "Ara chloropterus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ara macao",
-    "Threat Status": "LC"
+    "name": "Ara macao",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ara severus",
-    "Threat Status": "LC"
+    "name": "Ara severus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ardea cinerea",
-    "Threat Status": "LC"
+    "name": "Ardea cinerea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Arremon flavirostris",
-    "Threat Status": "LC"
+    "name": "Arremon flavirostris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Arremon semitorquatus",
-    "Threat Status": "LC"
+    "name": "Arremon semitorquatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Arremon taciturnus",
-    "Threat Status": "LC"
+    "name": "Arremon taciturnus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Asio stygius",
-    "Threat Status": "LC"
+    "name": "Asio stygius",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Atalotriccus pilaris",
-    "Threat Status": "LC"
+    "name": "Atalotriccus pilaris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Attila rufus",
-    "Threat Status": "LC"
+    "name": "Attila rufus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Attila spadiceus",
-    "Threat Status": "LC"
+    "name": "Attila spadiceus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Automolus leucophthalmus",
-    "Threat Status": "LC"
+    "name": "Automolus leucophthalmus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Automolus ochrolaemus",
-    "Threat Status": "LC"
+    "name": "Automolus ochrolaemus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Baryphthengus ruficapillus",
-    "Threat Status": "LC"
+    "name": "Baryphthengus ruficapillus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Basileuterus culicivorus",
-    "Threat Status": "LC"
+    "name": "Basileuterus culicivorus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Bubo virginianus",
-    "Threat Status": "LC"
+    "name": "Bubo virginianus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Buteo platypterus",
-    "Threat Status": "LC"
+    "name": "Buteo platypterus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Buteogallus urubitinga",
-    "Threat Status": "LC"
+    "name": "Buteogallus urubitinga",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Cacicus cela",
-    "Threat Status": "LC"
+    "name": "Cacicus cela",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Cacicus haemorrhous",
-    "Threat Status": "LC"
+    "name": "Cacicus haemorrhous",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Campephilus robustus",
-    "Threat Status": "LC"
+    "name": "Campephilus robustus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Camptostoma obsoletum",
-    "Threat Status": "LC"
+    "name": "Camptostoma obsoletum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Campylorhynchus turdinus",
-    "Threat Status": "LC"
+    "name": "Campylorhynchus turdinus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Capsiempis flaveola",
-    "Threat Status": "LC"
+    "name": "Capsiempis flaveola",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Catharus fuscescens",
-    "Threat Status": "LC"
+    "name": "Catharus fuscescens",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Catharus ustulatus",
-    "Threat Status": "LC"
+    "name": "Catharus ustulatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Cercomacra melanaria",
-    "Threat Status": "LC"
+    "name": "Cercomacra melanaria",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Chiroxiphia caudata",
-    "Threat Status": "LC"
+    "name": "Chiroxiphia caudata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Chiroxiphia pareola",
-    "Threat Status": "LC"
+    "name": "Chiroxiphia pareola",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Chlorophanes spiza",
-    "Threat Status": "LC"
+    "name": "Chlorophanes spiza",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Chlorophonia cyanea",
-    "Threat Status": "LC"
+    "name": "Chlorophonia cyanea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Chordeiles minor",
-    "Threat Status": "LC"
+    "name": "Chordeiles minor",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Cichlocolaptes leucophrus",
-    "Threat Status": "LC"
+    "name": "Cichlocolaptes leucophrus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Claravis pretiosa",
-    "Threat Status": "LC"
+    "name": "Claravis pretiosa",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Clibanornis dendrocolaptoides",
-    "Threat Status": "LC"
+    "name": "Clibanornis dendrocolaptoides",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Coereba flaveola",
-    "Threat Status": "LC"
+    "name": "Coereba flaveola",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Colonia colonus",
-    "Threat Status": "LC"
+    "name": "Colonia colonus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Columba livia",
-    "Threat Status": "LC"
+    "name": "Columba livia",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Conirostrum speciosum",
-    "Threat Status": "LC"
+    "name": "Conirostrum speciosum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Conopophaga lineata",
-    "Threat Status": "LC"
+    "name": "Conopophaga lineata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Conopophaga melanops",
-    "Threat Status": "LC"
+    "name": "Conopophaga melanops",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Contopus virens",
-    "Threat Status": "LC"
+    "name": "Contopus virens",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Coragyps atratus",
-    "Threat Status": "LC"
+    "name": "Coragyps atratus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Corythopis delalandi",
-    "Threat Status": "LC"
+    "name": "Corythopis delalandi",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Crax fasciolata",
-    "Threat Status": "NT"
+    "name": "Crax fasciolata",
+    "status": "NT"
   },
   {
-    "Scientific Name": "Crypturellus cinereus",
-    "Threat Status": "LC"
+    "name": "Crypturellus cinereus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Crypturellus obsoletus",
-    "Threat Status": "LC"
+    "name": "Crypturellus obsoletus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Crypturellus soui",
-    "Threat Status": "LC"
+    "name": "Crypturellus soui",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Crypturellus tataupa",
-    "Threat Status": "LC"
+    "name": "Crypturellus tataupa",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Crypturellus undulatus",
-    "Threat Status": "LC"
+    "name": "Crypturellus undulatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Cyclarhis gujanensis",
-    "Threat Status": "LC"
+    "name": "Cyclarhis gujanensis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dacnis cayana",
-    "Threat Status": "LC"
+    "name": "Dacnis cayana",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dendrexetastes rufigula",
-    "Threat Status": "LC"
+    "name": "Dendrexetastes rufigula",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dendrocincla fuliginosa",
-    "Threat Status": "LC"
+    "name": "Dendrocincla fuliginosa",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dendrocincla turdina",
-    "Threat Status": "LC"
+    "name": "Dendrocincla turdina",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dendrocolaptes platyrostris",
-    "Threat Status": "LC"
+    "name": "Dendrocolaptes platyrostris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dendroplex picus",
-    "Threat Status": "LC"
+    "name": "Dendroplex picus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dichrozona cincta",
-    "Threat Status": "LC"
+    "name": "Dichrozona cincta",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Drymophila genei",
-    "Threat Status": "LC"
+    "name": "Drymophila genei",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Drymophila malura",
-    "Threat Status": "LC"
+    "name": "Drymophila malura",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Drymophila ochropyga",
-    "Threat Status": "NT"
+    "name": "Drymophila ochropyga",
+    "status": "NT"
   },
   {
-    "Scientific Name": "Drymophila squamata",
-    "Threat Status": "LC"
+    "name": "Drymophila squamata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dysithamnus mentalis",
-    "Threat Status": "LC"
+    "name": "Dysithamnus mentalis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Dysithamnus stictothorax",
-    "Threat Status": "NT"
+    "name": "Dysithamnus stictothorax",
+    "status": "NT"
   },
   {
-    "Scientific Name": "Dysithamnus xanthopterus",
-    "Threat Status": "LC"
+    "name": "Dysithamnus xanthopterus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Elaenia chiriquensis",
-    "Threat Status": "LC"
+    "name": "Elaenia chiriquensis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Eleoscytalopus indigoticus",
-    "Threat Status": "LC"
+    "name": "Eleoscytalopus indigoticus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Empidonax alnorum",
-    "Threat Status": "LC"
+    "name": "Empidonax alnorum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Epinecrophylla leucophthalma",
-    "Threat Status": "LC"
+    "name": "Epinecrophylla leucophthalma",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Eucometis penicillata",
-    "Threat Status": "LC"
+    "name": "Eucometis penicillata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Euphonia chlorotica",
-    "Threat Status": "LC"
+    "name": "Euphonia chlorotica",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Euphonia violacea",
-    "Threat Status": "LC"
+    "name": "Euphonia violacea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Formicarius analis",
-    "Threat Status": "LC"
+    "name": "Formicarius analis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Formicarius colma",
-    "Threat Status": "LC"
+    "name": "Formicarius colma",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Galbula ruficauda",
-    "Threat Status": "LC"
+    "name": "Galbula ruficauda",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Gallinago undulata",
-    "Threat Status": "LC"
+    "name": "Gallinago undulata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Gallinula chloropus",
-    "Threat Status": "LC"
+    "name": "Gallinula chloropus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Geotrygon montana",
-    "Threat Status": "LC"
+    "name": "Geotrygon montana",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Glaucidium brasilianum",
-    "Threat Status": "LC"
+    "name": "Glaucidium brasilianum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Grallaria guatimalensis",
-    "Threat Status": "EN"
+    "name": "Grallaria guatimalensis",
+    "status": "EN"
   },
   {
-    "Scientific Name": "Grallaria varia",
-    "Threat Status": "LC"
+    "name": "Grallaria varia",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Habia rubica",
-    "Threat Status": "LC"
+    "name": "Habia rubica",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Haplospiza unicolor",
-    "Threat Status": "LC"
+    "name": "Haplospiza unicolor",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Heliothryx auritus",
-    "Threat Status": "LC"
+    "name": "Heliothryx auritus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemithraupis guira",
-    "Threat Status": "LC"
+    "name": "Hemithraupis guira",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemithraupis ruficapilla",
-    "Threat Status": "LC"
+    "name": "Hemithraupis ruficapilla",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemitriccus diops",
-    "Threat Status": "LC"
+    "name": "Hemitriccus diops",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemitriccus furcatus",
-    "Threat Status": "LC"
+    "name": "Hemitriccus furcatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemitriccus griseipectus",
-    "Threat Status": "LC"
+    "name": "Hemitriccus griseipectus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemitriccus margaritaceiventer",
-    "Threat Status": "LC"
+    "name": "Hemitriccus margaritaceiventer",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemitriccus minor",
-    "Threat Status": "LC"
+    "name": "Hemitriccus minor",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemitriccus nidipendulus",
-    "Threat Status": "LC"
+    "name": "Hemitriccus nidipendulus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hemitriccus orbitatus",
-    "Threat Status": "NT"
+    "name": "Hemitriccus orbitatus",
+    "status": "NT"
   },
   {
-    "Scientific Name": "Herpetotheres cachinnans",
-    "Threat Status": "LC"
+    "name": "Herpetotheres cachinnans",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Herpsilochmus atricapillus",
-    "Threat Status": "LC"
+    "name": "Herpsilochmus atricapillus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Herpsilochmus rufimarginatus",
-    "Threat Status": "LC"
+    "name": "Herpsilochmus rufimarginatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hirundinea ferruginea",
-    "Threat Status": "LC"
+    "name": "Hirundinea ferruginea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hydropsalis torquata",
-    "Threat Status": "LC"
+    "name": "Hydropsalis torquata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hylocharis chrysura",
-    "Threat Status": "LC"
+    "name": "Hylocharis chrysura",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hylophilus amaurocephalus",
-    "Threat Status": "LC"
+    "name": "Hylophilus amaurocephalus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hylophilus thoracicus",
-    "Threat Status": "LC"
+    "name": "Hylophilus thoracicus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hylophylax naevius",
-    "Threat Status": "LC"
+    "name": "Hylophylax naevius",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Hypoedaleus guttatus",
-    "Threat Status": "LC"
+    "name": "Hypoedaleus guttatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ilicura militaris",
-    "Threat Status": "LC"
+    "name": "Ilicura militaris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Jacamerops aureus",
-    "Threat Status": "LC"
+    "name": "Jacamerops aureus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Laterallus melanophaius",
-    "Threat Status": "LC"
+    "name": "Laterallus melanophaius",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Lathrotriccus euleri",
-    "Threat Status": "LC"
+    "name": "Lathrotriccus euleri",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Legatus leucophaius",
-    "Threat Status": "LC"
+    "name": "Legatus leucophaius",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Lepidocolaptes souleyetii",
-    "Threat Status": "LC"
+    "name": "Lepidocolaptes souleyetii",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Leptotila rufaxilla",
-    "Threat Status": "LC"
+    "name": "Leptotila rufaxilla",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Leptotila verreauxi",
-    "Threat Status": "LC"
+    "name": "Leptotila verreauxi",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Lipaugus vociferans",
-    "Threat Status": "LC"
+    "name": "Lipaugus vociferans",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Lochmias nematura",
-    "Threat Status": "LC"
+    "name": "Lochmias nematura",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Lophostrix cristata",
-    "Threat Status": "LC"
+    "name": "Lophostrix cristata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Lurocalis semitorquatus",
-    "Threat Status": "LC"
+    "name": "Lurocalis semitorquatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Machaeropterus pyrocephalus",
-    "Threat Status": "LC"
+    "name": "Machaeropterus pyrocephalus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Mackenziaena severa",
-    "Threat Status": "LC"
+    "name": "Mackenziaena severa",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Malacoptila striata",
-    "Threat Status": "LC"
+    "name": "Malacoptila striata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Manacus manacus",
-    "Threat Status": "LC"
+    "name": "Manacus manacus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Megaceryle torquata",
-    "Threat Status": "LC"
+    "name": "Megaceryle torquata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Megarynchus pitangua",
-    "Threat Status": "LC"
+    "name": "Megarynchus pitangua",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Megascops atricapilla",
-    "Threat Status": "LC"
+    "name": "Megascops atricapilla",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Megascops choliba",
-    "Threat Status": "LC"
+    "name": "Megascops choliba",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Megascops sanctaecatarinae",
-    "Threat Status": "LC"
+    "name": "Megascops sanctaecatarinae",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Megaxenops parnaguae",
-    "Threat Status": "LC"
+    "name": "Megaxenops parnaguae",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Melanerpes flavifrons",
-    "Threat Status": "LC"
+    "name": "Melanerpes flavifrons",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Merulaxis ater",
-    "Threat Status": "LC"
+    "name": "Merulaxis ater",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Micrastur ruficollis",
-    "Threat Status": "LC"
+    "name": "Micrastur ruficollis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Micrastur semitorquatus",
-    "Threat Status": "LC"
+    "name": "Micrastur semitorquatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Milvago chimachima",
-    "Threat Status": "LC"
+    "name": "Milvago chimachima",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Mionectes oleagineus",
-    "Threat Status": "LC"
+    "name": "Mionectes oleagineus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Mionectes rufiventris",
-    "Threat Status": "LC"
+    "name": "Mionectes rufiventris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Mitrospingus oleagineus",
-    "Threat Status": "LC"
+    "name": "Mitrospingus oleagineus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Momotus momota",
-    "Threat Status": "LC"
+    "name": "Momotus momota",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiarchus ferox",
-    "Threat Status": "LC"
+    "name": "Myiarchus ferox",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiarchus swainsoni",
-    "Threat Status": "LC"
+    "name": "Myiarchus swainsoni",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiarchus tuberculifer",
-    "Threat Status": "LC"
+    "name": "Myiarchus tuberculifer",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiarchus tyrannulus",
-    "Threat Status": "LC"
+    "name": "Myiarchus tyrannulus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiobius barbatus",
-    "Threat Status": "LC"
+    "name": "Myiobius barbatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myioborus miniatus",
-    "Threat Status": "LC"
+    "name": "Myioborus miniatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiopagis caniceps",
-    "Threat Status": "LC"
+    "name": "Myiopagis caniceps",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiopagis viridicata",
-    "Threat Status": "LC"
+    "name": "Myiopagis viridicata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiophobus fasciatus",
-    "Threat Status": "LC"
+    "name": "Myiophobus fasciatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiornis auricularis",
-    "Threat Status": "LC"
+    "name": "Myiornis auricularis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myiozetetes similis",
-    "Threat Status": "LC"
+    "name": "Myiozetetes similis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myrmornis torquata",
-    "Threat Status": "LC"
+    "name": "Myrmornis torquata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Myrmotherula axillaris",
-    "Threat Status": "LC"
+    "name": "Myrmotherula axillaris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Neopelma pallescens",
-    "Threat Status": "LC"
+    "name": "Neopelma pallescens",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Neopipo cinnamomea",
-    "Threat Status": "LC"
+    "name": "Neopipo cinnamomea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Nothocrax urumutum",
-    "Threat Status": "LC"
+    "name": "Nothocrax urumutum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Numenius phaeopus",
-    "Threat Status": "LC"
+    "name": "Numenius phaeopus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Nyctibius griseus",
-    "Threat Status": "LC"
+    "name": "Nyctibius griseus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Nycticorax nycticorax",
-    "Threat Status": "LC"
+    "name": "Nycticorax nycticorax",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Nyctidromus albicollis",
-    "Threat Status": "LC"
+    "name": "Nyctidromus albicollis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Nyctiphrynus ocellatus",
-    "Threat Status": "LC"
+    "name": "Nyctiphrynus ocellatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Orchesticus abeillei",
-    "Threat Status": "LC"
+    "name": "Orchesticus abeillei",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pachyramphus castaneus",
-    "Threat Status": "LC"
+    "name": "Pachyramphus castaneus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pachyramphus polychopterus",
-    "Threat Status": "LC"
+    "name": "Pachyramphus polychopterus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pandion haliaetus",
-    "Threat Status": "LC"
+    "name": "Pandion haliaetus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Patagioenas plumbea",
-    "Threat Status": "LC"
+    "name": "Patagioenas plumbea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Patagioenas speciosa",
-    "Threat Status": "LC"
+    "name": "Patagioenas speciosa",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Penelope obscura",
-    "Threat Status": "LC"
+    "name": "Penelope obscura",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Penelope superciliaris",
-    "Threat Status": "NT"
+    "name": "Penelope superciliaris",
+    "status": "NT"
   },
   {
-    "Scientific Name": "Phaethornis ruber",
-    "Threat Status": "LC"
+    "name": "Phaethornis ruber",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Philydor atricapillus",
-    "Threat Status": "LC"
+    "name": "Philydor atricapillus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Phlegopsis nigromaculata",
-    "Threat Status": "LC"
+    "name": "Phlegopsis nigromaculata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Phyllomyias fasciatus",
-    "Threat Status": "LC"
+    "name": "Phyllomyias fasciatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Phyllomyias griseiceps",
-    "Threat Status": "LC"
+    "name": "Phyllomyias griseiceps",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Phylloscartes ventralis",
-    "Threat Status": "LC"
+    "name": "Phylloscartes ventralis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Piaya cayana",
-    "Threat Status": "LC"
+    "name": "Piaya cayana",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Picumnus cirratus",
-    "Threat Status": "LC"
+    "name": "Picumnus cirratus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Picumnus temminckii",
-    "Threat Status": "LC"
+    "name": "Picumnus temminckii",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pionus maximiliani",
-    "Threat Status": "LC"
+    "name": "Pionus maximiliani",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pionus menstruus",
-    "Threat Status": "LC"
+    "name": "Pionus menstruus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Piranga leucoptera",
-    "Threat Status": "LC"
+    "name": "Piranga leucoptera",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Piranga olivacea",
-    "Threat Status": "LC"
+    "name": "Piranga olivacea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pitangus sulphuratus",
-    "Threat Status": "LC"
+    "name": "Pitangus sulphuratus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Platyrinchus coronatus",
-    "Threat Status": "LC"
+    "name": "Platyrinchus coronatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Platyrinchus mystaceus",
-    "Threat Status": "LC"
+    "name": "Platyrinchus mystaceus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Poecilotriccus plumbeiceps",
-    "Threat Status": "LC"
+    "name": "Poecilotriccus plumbeiceps",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Procnias nudicollis",
-    "Threat Status": "NT"
+    "name": "Procnias nudicollis",
+    "status": "NT"
   },
   {
-    "Scientific Name": "Psarocolius angustifrons",
-    "Threat Status": "LC"
+    "name": "Psarocolius angustifrons",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pulsatrix koeniswaldiana",
-    "Threat Status": "LC"
+    "name": "Pulsatrix koeniswaldiana",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pulsatrix perspicillata",
-    "Threat Status": "LC"
+    "name": "Pulsatrix perspicillata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pygochelidon cyanoleuca",
-    "Threat Status": "LC"
+    "name": "Pygochelidon cyanoleuca",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pyriglena leucoptera",
-    "Threat Status": "LC"
+    "name": "Pyriglena leucoptera",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Pyroderus scutatus",
-    "Threat Status": "LC"
+    "name": "Pyroderus scutatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ramphastos dicolorus",
-    "Threat Status": "LC"
+    "name": "Ramphastos dicolorus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ramphastos toco",
-    "Threat Status": "LC"
+    "name": "Ramphastos toco",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ramphocaenus melanurus",
-    "Threat Status": "LC"
+    "name": "Ramphocaenus melanurus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ramphocelus carbo",
-    "Threat Status": "LC"
+    "name": "Ramphocelus carbo",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Ramphotrigon megacephalum",
-    "Threat Status": "LC"
+    "name": "Ramphotrigon megacephalum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Saltator similis",
-    "Threat Status": "LC"
+    "name": "Saltator similis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Schiffornis virescens",
-    "Threat Status": "LC"
+    "name": "Schiffornis virescens",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Sclerurus scansor",
-    "Threat Status": "LC"
+    "name": "Sclerurus scansor",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Sirystes sibilator",
-    "Threat Status": "LC"
+    "name": "Sirystes sibilator",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Sittasomus griseicapillus",
-    "Threat Status": "LC"
+    "name": "Sittasomus griseicapillus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Spizaetus ornatus",
-    "Threat Status": "NT"
+    "name": "Spizaetus ornatus",
+    "status": "NT"
   },
   {
-    "Scientific Name": "Spizaetus tyrannus",
-    "Threat Status": "LC"
+    "name": "Spizaetus tyrannus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Sporophila falcirostris",
-    "Threat Status": "VU"
+    "name": "Sporophila falcirostris",
+    "status": "VU"
   },
   {
-    "Scientific Name": "Sporophila frontalis",
-    "Threat Status": "VU"
+    "name": "Sporophila frontalis",
+    "status": "VU"
   },
   {
-    "Scientific Name": "Sporophila nigricollis",
-    "Threat Status": "LC"
+    "name": "Sporophila nigricollis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Sporophila schistacea",
-    "Threat Status": "LC"
+    "name": "Sporophila schistacea",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Strix hylophila",
-    "Threat Status": "LC"
+    "name": "Strix hylophila",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Synallaxis cinerascens",
-    "Threat Status": "LC"
+    "name": "Synallaxis cinerascens",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Synallaxis ruficapilla",
-    "Threat Status": "LC"
+    "name": "Synallaxis ruficapilla",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Synallaxis scutata",
-    "Threat Status": "LC"
+    "name": "Synallaxis scutata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Syndactyla rufosuperciliata",
-    "Threat Status": "LC"
+    "name": "Syndactyla rufosuperciliata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tachyphonus coronatus",
-    "Threat Status": "LC"
+    "name": "Tachyphonus coronatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tachyphonus rufus",
-    "Threat Status": "LC"
+    "name": "Tachyphonus rufus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara chilensis",
-    "Threat Status": "LC"
+    "name": "Tangara chilensis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara cyanocephala",
-    "Threat Status": "LC"
+    "name": "Tangara cyanocephala",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara cyanoventris",
-    "Threat Status": "LC"
+    "name": "Tangara cyanoventris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara desmaresti",
-    "Threat Status": "LC"
+    "name": "Tangara desmaresti",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara gyrola",
-    "Threat Status": "LC"
+    "name": "Tangara gyrola",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara mexicana",
-    "Threat Status": "LC"
+    "name": "Tangara mexicana",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara seledon",
-    "Threat Status": "LC"
+    "name": "Tangara seledon",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tangara velia",
-    "Threat Status": "LC"
+    "name": "Tangara velia",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tersina viridis",
-    "Threat Status": "LC"
+    "name": "Tersina viridis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Thamnomanes saturninus",
-    "Threat Status": "LC"
+    "name": "Thamnomanes saturninus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Thamnophilus caerulescens",
-    "Threat Status": "LC"
+    "name": "Thamnophilus caerulescens",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Thamnophilus doliatus",
-    "Threat Status": "LC"
+    "name": "Thamnophilus doliatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Thlypopsis sordida",
-    "Threat Status": "LC"
+    "name": "Thlypopsis sordida",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Thraupis palmarum",
-    "Threat Status": "LC"
+    "name": "Thraupis palmarum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Threnetes leucurus",
-    "Threat Status": "LC"
+    "name": "Threnetes leucurus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tityra semifasciata",
-    "Threat Status": "LC"
+    "name": "Tityra semifasciata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Todirostrum poliocephalum",
-    "Threat Status": "LC"
+    "name": "Todirostrum poliocephalum",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tolmomyias sulphurescens",
-    "Threat Status": "LC"
+    "name": "Tolmomyias sulphurescens",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Touit surdus",
-    "Threat Status": "VU"
+    "name": "Touit surdus",
+    "status": "VU"
   },
   {
-    "Scientific Name": "Trichothraupis melanops",
-    "Threat Status": "LC"
+    "name": "Trichothraupis melanops",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Troglodytes aedon",
-    "Threat Status": "LC"
+    "name": "Troglodytes aedon",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Trogon rufus",
-    "Threat Status": "LC"
+    "name": "Trogon rufus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Turdus albicollis",
-    "Threat Status": "LC"
+    "name": "Turdus albicollis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Turdus leucomelas",
-    "Threat Status": "LC"
+    "name": "Turdus leucomelas",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Turdus rufiventris",
-    "Threat Status": "LC"
+    "name": "Turdus rufiventris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Turdus subalaris",
-    "Threat Status": "LC"
+    "name": "Turdus subalaris",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Tyrannus melancholicus",
-    "Threat Status": "LC"
+    "name": "Tyrannus melancholicus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Xiphocolaptes albicollis",
-    "Threat Status": "LC"
+    "name": "Xiphocolaptes albicollis",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Xiphocolaptes promeropirhynchus",
-    "Threat Status": "LC"
+    "name": "Xiphocolaptes promeropirhynchus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Xiphorhynchus fuscus",
-    "Threat Status": "LC"
+    "name": "Xiphorhynchus fuscus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Xiphorhynchus guttatus",
-    "Threat Status": "LC"
+    "name": "Xiphorhynchus guttatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Xolmis velatus",
-    "Threat Status": "LC"
+    "name": "Xolmis velatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Zebrilus undulatus",
-    "Threat Status": "LC"
+    "name": "Zebrilus undulatus",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Zenaida auriculata",
-    "Threat Status": "LC"
+    "name": "Zenaida auriculata",
+    "status": "LC"
   },
   {
-    "Scientific Name": "Zonotrichia capensis",
-    "Threat Status": "LC"
+    "name": "Zonotrichia capensis",
+    "status": "LC"
   }
 ]
