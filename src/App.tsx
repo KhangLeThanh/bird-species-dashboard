@@ -2,6 +2,8 @@ import { useState } from "react";
 import { Grid, Box, Tab, Tabs, Typography } from "@mui/material";
 import { L1 } from "./data/L1";
 import { L3, L3UniqueSpecies } from "./data/L3";
+import L1Species from "./data/L1Species.json";
+import L3Species from "./data/L3Species.json";
 import SummaryCard from "./components/SummaryCard";
 import PieChartWithDialog from "./components/PieChartWithDialog";
 import BarChartIUCN from "./components/BarChartIUCN";
@@ -54,7 +56,7 @@ function App() {
               <Typography variant="h6" mt={3} mb={1}>
                 Distribution by IUCN Status (Pie Chart)
               </Typography>
-              <PieChartWithDialog data={L1} />
+              <PieChartWithDialog data={L1} species={L1Species} />
               <Typography variant="h6" mt={3} mb={1}>
                 Detailed Counts by Status
               </Typography>
@@ -79,7 +81,7 @@ function App() {
               <Typography variant="h6" mt={3} mb={1}>
                 Distribution by IUCN Status (Pie Chart)
               </Typography>
-              <PieChartWithDialog data={L3} />
+              <PieChartWithDialog data={L3} species={L3Species} />
               <Typography variant="h6" mt={3} mb={1}>
                 Detailed Counts by Status
               </Typography>

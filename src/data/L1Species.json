@@ -1,0 +1,2786 @@
+[
+  {
+    "name": "Rhea americana",
+    "status": "NT"
+  },
+  {
+    "name": "Crypturellus obsoletus",
+    "status": "LC"
+  },
+  {
+    "name": "Crypturellus tataupa",
+    "status": "LC"
+  },
+  {
+    "name": "Tinamus solitarius",
+    "status": "NT"
+  },
+  {
+    "name": "Nothura minor",
+    "status": "VU"
+  },
+  {
+    "name": "Rhynchotus rufescens",
+    "status": "LC"
+  },
+  {
+    "name": "Crypturellus noctivagus",
+    "status": "NT"
+  },
+  {
+    "name": "Nothura maculosa",
+    "status": "LC"
+  },
+  {
+    "name": "Crypturellus parvirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Crypturellus soui",
+    "status": "LC"
+  },
+  {
+    "name": "Anhima cornuta",
+    "status": "LC"
+  },
+  {
+    "name": "Sarkidiornis melanotos",
+    "status": "LC"
+  },
+  {
+    "name": "Nomonyx dominicus",
+    "status": "LC"
+  },
+  {
+    "name": "Anser anser",
+    "status": "LC"
+  },
+  {
+    "name": "Amazonetta brasiliensis",
+    "status": "LC"
+  },
+  {
+    "name": "Mergus octosetaceus",
+    "status": "CR"
+  },
+  {
+    "name": "Cairina moschata",
+    "status": "LC"
+  },
+  {
+    "name": "Netta erythrophthalma",
+    "status": "LC"
+  },
+  {
+    "name": "Dendrocygna viduata",
+    "status": "LC"
+  },
+  {
+    "name": "Dendrocygna autumnalis",
+    "status": "LC"
+  },
+  {
+    "name": "Crax blumenbachii",
+    "status": "EN"
+  },
+  {
+    "name": "Penelope superciliaris",
+    "status": "NT"
+  },
+  {
+    "name": "Penelope obscura",
+    "status": "LC"
+  },
+  {
+    "name": "Pipile jacutinga",
+    "status": "EN"
+  },
+  {
+    "name": "Odontophorus capueira",
+    "status": "LC"
+  },
+  {
+    "name": "Tachybaptus dominicus",
+    "status": "LC"
+  },
+  {
+    "name": "Podilymbus podiceps",
+    "status": "LC"
+  },
+  {
+    "name": "Jabiru mycteria",
+    "status": "LC"
+  },
+  {
+    "name": "Mycteria americana",
+    "status": "LC"
+  },
+  {
+    "name": "Anhinga anhinga",
+    "status": "LC"
+  },
+  {
+    "name": "Nycticorax nycticorax",
+    "status": "LC"
+  },
+  {
+    "name": "Ardea alba",
+    "status": "LC"
+  },
+  {
+    "name": "Ardea cocoi",
+    "status": "LC"
+  },
+  {
+    "name": "Syrigma sibilatrix",
+    "status": "LC"
+  },
+  {
+    "name": "Bubulcus ibis",
+    "status": "LC"
+  },
+  {
+    "name": "Pilherodius pileatus",
+    "status": "LC"
+  },
+  {
+    "name": "Butorides striata",
+    "status": "LC"
+  },
+  {
+    "name": "Cochlearius cochlearius",
+    "status": "LC"
+  },
+  {
+    "name": "Egretta thula",
+    "status": "LC"
+  },
+  {
+    "name": "Tigrisoma lineatum",
+    "status": "LC"
+  },
+  {
+    "name": "Phimosus infuscatus",
+    "status": "LC"
+  },
+  {
+    "name": "Platalea ajaja",
+    "status": "LC"
+  },
+  {
+    "name": "Plegadis chihi",
+    "status": "LC"
+  },
+  {
+    "name": "Theristicus caudatus",
+    "status": "LC"
+  },
+  {
+    "name": "Mesembrinibis cayennensis",
+    "status": "LC"
+  },
+  {
+    "name": "Coragyps atratus",
+    "status": "LC"
+  },
+  {
+    "name": "Sarcoramphus papa",
+    "status": "LC"
+  },
+  {
+    "name": "Cathartes burrovianus",
+    "status": "LC"
+  },
+  {
+    "name": "Cathartes aura",
+    "status": "LC"
+  },
+  {
+    "name": "Pandion haliaetus",
+    "status": "LC"
+  },
+  {
+    "name": "Accipiter striatus",
+    "status": "LC"
+  },
+  {
+    "name": "Elanoides forficatus",
+    "status": "LC"
+  },
+  {
+    "name": "Elanus leucurus",
+    "status": "LC"
+  },
+  {
+    "name": "Harpia harpyja",
+    "status": "VU"
+  },
+  {
+    "name": "Spizaetus melanoleucus",
+    "status": "LC"
+  },
+  {
+    "name": "Spizaetus ornatus",
+    "status": "NT"
+  },
+  {
+    "name": "Spizaetus tyrannus",
+    "status": "LC"
+  },
+  {
+    "name": "Harpagus diodon",
+    "status": "LC"
+  },
+  {
+    "name": "Buteogallus urubitinga",
+    "status": "LC"
+  },
+  {
+    "name": "Buteogallus meridionalis",
+    "status": "LC"
+  },
+  {
+    "name": "Parabuteo unicinctus",
+    "status": "LC"
+  },
+  {
+    "name": "Buteogallus coronatus",
+    "status": "EN"
+  },
+  {
+    "name": "Pseudastur polionotus",
+    "status": "NT"
+  },
+  {
+    "name": "Buteo brachyurus",
+    "status": "LC"
+  },
+  {
+    "name": "Buteo albonotatus",
+    "status": "LC"
+  },
+  {
+    "name": "Circus buffoni",
+    "status": "LC"
+  },
+  {
+    "name": "Busarellus nigricollis",
+    "status": "LC"
+  },
+  {
+    "name": "Geranospiza caerulescens",
+    "status": "LC"
+  },
+  {
+    "name": "Geranoaetus melanoleucus",
+    "status": "LC"
+  },
+  {
+    "name": "Geranoaetus albicaudatus",
+    "status": "LC"
+  },
+  {
+    "name": "Rupornis magnirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Gampsonyx swainsonii",
+    "status": "LC"
+  },
+  {
+    "name": "Accipiter poliogaster",
+    "status": "NT"
+  },
+  {
+    "name": "Accipiter erythropus",
+    "status": "LC"
+  },
+  {
+    "name": "Ictinia plumbea",
+    "status": "LC"
+  },
+  {
+    "name": "Leptodon cayanensis",
+    "status": "LC"
+  },
+  {
+    "name": "Accipiter superciliosus",
+    "status": "LC"
+  },
+  {
+    "name": "Accipiter bicolor",
+    "status": "LC"
+  },
+  {
+    "name": "Rostrhamus sociabilis",
+    "status": "LC"
+  },
+  {
+    "name": "Pardirallus nigricans",
+    "status": "LC"
+  },
+  {
+    "name": "Laterallus leucopyrrhus",
+    "status": "LC"
+  },
+  {
+    "name": "Laterallus melanophaius",
+    "status": "LC"
+  },
+  {
+    "name": "Laterallus xenopterus",
+    "status": "VU"
+  },
+  {
+    "name": "Mustelirallus albicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Porphyrio flavirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Porphyrio martinica",
+    "status": "LC"
+  },
+  {
+    "name": "Aramides ypecaha",
+    "status": "LC"
+  },
+  {
+    "name": "Aramides saracura",
+    "status": "LC"
+  },
+  {
+    "name": "Aramides cajaneus",
+    "status": "LC"
+  },
+  {
+    "name": "Gallinula galeata",
+    "status": "LC"
+  },
+  {
+    "name": "Micropygia schomburgkii",
+    "status": "LC"
+  },
+  {
+    "name": "Gallinula chloropus",
+    "status": "LC"
+  },
+  {
+    "name": "Pardirallus maculatus",
+    "status": "LC"
+  },
+  {
+    "name": "Aramus guarauna",
+    "status": "LC"
+  },
+  {
+    "name": "Himantopus mexicanus",
+    "status": "LC"
+  },
+  {
+    "name": "Himantopus himantopus",
+    "status": "LC"
+  },
+  {
+    "name": "Vanellus chilensis",
+    "status": "LC"
+  },
+  {
+    "name": "Pluvialis dominica",
+    "status": "LC"
+  },
+  {
+    "name": "Vanellus cayanus",
+    "status": "LC"
+  },
+  {
+    "name": "Charadrius collaris",
+    "status": "LC"
+  },
+  {
+    "name": "Jacana jacana",
+    "status": "LC"
+  },
+  {
+    "name": "Gallinago paraguaiae",
+    "status": "LC"
+  },
+  {
+    "name": "Tringa melanoleuca",
+    "status": "LC"
+  },
+  {
+    "name": "Tringa flavipes",
+    "status": "LC"
+  },
+  {
+    "name": "Calidris fuscicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Tringa solitaria",
+    "status": "LC"
+  },
+  {
+    "name": "Gallinago undulata",
+    "status": "LC"
+  },
+  {
+    "name": "Actitis macularius",
+    "status": "LC"
+  },
+  {
+    "name": "Rynchops niger",
+    "status": "LC"
+  },
+  {
+    "name": "Phaetusa simplex",
+    "status": "LC"
+  },
+  {
+    "name": "Patagioenas plumbea",
+    "status": "LC"
+  },
+  {
+    "name": "Claravis pretiosa",
+    "status": "LC"
+  },
+  {
+    "name": "Patagioenas picazuro",
+    "status": "LC"
+  },
+  {
+    "name": "Leptotila rufaxilla",
+    "status": "LC"
+  },
+  {
+    "name": "Leptotila verreauxi",
+    "status": "LC"
+  },
+  {
+    "name": "Patagioenas speciosa",
+    "status": "LC"
+  },
+  {
+    "name": "Geotrygon montana",
+    "status": "LC"
+  },
+  {
+    "name": "Geotrygon violacea",
+    "status": "LC"
+  },
+  {
+    "name": "Columbina picui",
+    "status": "LC"
+  },
+  {
+    "name": "Columbina squammata",
+    "status": "LC"
+  },
+  {
+    "name": "Columbina talpacoti",
+    "status": "LC"
+  },
+  {
+    "name": "Columba livia",
+    "status": "LC"
+  },
+  {
+    "name": "Uropelia campestris",
+    "status": "LC"
+  },
+  {
+    "name": "Columbina minuta",
+    "status": "LC"
+  },
+  {
+    "name": "Patagioenas cayennensis",
+    "status": "LC"
+  },
+  {
+    "name": "Zenaida auriculata",
+    "status": "LC"
+  },
+  {
+    "name": "Crotophaga ani",
+    "status": "LC"
+  },
+  {
+    "name": "Dromococcyx phasianellus",
+    "status": "LC"
+  },
+  {
+    "name": "Guira guira",
+    "status": "LC"
+  },
+  {
+    "name": "Coccyzus melacoryphus",
+    "status": "LC"
+  },
+  {
+    "name": "Piaya cayana",
+    "status": "LC"
+  },
+  {
+    "name": "Neomorphus geoffroyi",
+    "status": "VU"
+  },
+  {
+    "name": "Coccyzus euleri",
+    "status": "LC"
+  },
+  {
+    "name": "Coccyzus americanus",
+    "status": "LC"
+  },
+  {
+    "name": "Neomorphus squamiger",
+    "status": "VU"
+  },
+  {
+    "name": "Tapera naevia",
+    "status": "LC"
+  },
+  {
+    "name": "Crotophaga major",
+    "status": "LC"
+  },
+  {
+    "name": "Tyto alba",
+    "status": "LC"
+  },
+  {
+    "name": "Strix hylophila",
+    "status": "LC"
+  },
+  {
+    "name": "Asio clamator",
+    "status": "LC"
+  },
+  {
+    "name": "Asio flammeus",
+    "status": "LC"
+  },
+  {
+    "name": "Asio stygius",
+    "status": "LC"
+  },
+  {
+    "name": "Bubo virginianus",
+    "status": "LC"
+  },
+  {
+    "name": "Pulsatrix koeniswaldiana",
+    "status": "LC"
+  },
+  {
+    "name": "Glaucidium brasilianum",
+    "status": "LC"
+  },
+  {
+    "name": "Glaucidium minutissimum",
+    "status": "LC"
+  },
+  {
+    "name": "Pulsatrix perspicillata",
+    "status": "LC"
+  },
+  {
+    "name": "Ciccaba virgata",
+    "status": "LC"
+  },
+  {
+    "name": "Athene cunicularia",
+    "status": "LC"
+  },
+  {
+    "name": "Megascops choliba",
+    "status": "LC"
+  },
+  {
+    "name": "Megascops atricapilla",
+    "status": "LC"
+  },
+  {
+    "name": "Hydropsalis torquata",
+    "status": "LC"
+  },
+  {
+    "name": "Setopagis parvula",
+    "status": "LC"
+  },
+  {
+    "name": "Nyctidromus albicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Eleothreptus candicans",
+    "status": "VU"
+  },
+  {
+    "name": "Chordeiles nacunda",
+    "status": "LC"
+  },
+  {
+    "name": "Macropsalis forcipata",
+    "status": "LC"
+  },
+  {
+    "name": "Antrostomus rufus",
+    "status": "LC"
+  },
+  {
+    "name": "Chordeiles acutipennis",
+    "status": "LC"
+  },
+  {
+    "name": "Chordeiles pusillus",
+    "status": "LC"
+  },
+  {
+    "name": "Nyctiphrynus ocellatus",
+    "status": "LC"
+  },
+  {
+    "name": "Lurocalis semitorquatus",
+    "status": "LC"
+  },
+  {
+    "name": "Chordeiles minor",
+    "status": "LC"
+  },
+  {
+    "name": "Systellura longirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Nyctibius griseus",
+    "status": "LC"
+  },
+  {
+    "name": "Nyctibius grandis",
+    "status": "LC"
+  },
+  {
+    "name": "Nyctibius aethereus",
+    "status": "LC"
+  },
+  {
+    "name": "Streptoprocne zonaris",
+    "status": "LC"
+  },
+  {
+    "name": "Chaetura meridionalis",
+    "status": "LC"
+  },
+  {
+    "name": "Chaetura vauxi",
+    "status": "LC"
+  },
+  {
+    "name": "Chaetura cinereiventris",
+    "status": "LC"
+  },
+  {
+    "name": "Cypseloides senex",
+    "status": "LC"
+  },
+  {
+    "name": "Cypseloides fumigatus",
+    "status": "LC"
+  },
+  {
+    "name": "Streptoprocne biscutata",
+    "status": "LC"
+  },
+  {
+    "name": "Phaethornis pretrei",
+    "status": "LC"
+  },
+  {
+    "name": "Phaethornis ruber",
+    "status": "LC"
+  },
+  {
+    "name": "Phaethornis eurynome",
+    "status": "LC"
+  },
+  {
+    "name": "Heliactin bilophus",
+    "status": "LC"
+  },
+  {
+    "name": "Chlorostilbon lucidus",
+    "status": "LC"
+  },
+  {
+    "name": "Lophornis magnificus",
+    "status": "LC"
+  },
+  {
+    "name": "Eupetomena macroura",
+    "status": "LC"
+  },
+  {
+    "name": "Phaethornis squalidus",
+    "status": "LC"
+  },
+  {
+    "name": "Colibri serrirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Eupetomena cirrochloris",
+    "status": "LC"
+  },
+  {
+    "name": "Chrysuronia versicolor",
+    "status": "LC"
+  },
+  {
+    "name": "Campylopterus largipennis",
+    "status": "LC"
+  },
+  {
+    "name": "Anthracothorax nigricollis",
+    "status": "LC"
+  },
+  {
+    "name": "Florisuga fusca",
+    "status": "LC"
+  },
+  {
+    "name": "Polytmus guainumbi",
+    "status": "LC"
+  },
+  {
+    "name": "Polytmus guainumbi",
+    "status": "LC"
+  },
+  {
+    "name": "Polytmus guainumbi",
+    "status": "LC"
+  },
+  {
+    "name": "Augastes scutatus",
+    "status": "LC"
+  },
+  {
+    "name": "Stephanoxis lalandi",
+    "status": "LC"
+  },
+  {
+    "name": "Polytmus guainumbi",
+    "status": "LC"
+  },
+  {
+    "name": "Phaethornis idaliae",
+    "status": "LC"
+  },
+  {
+    "name": "Chrysolampis mosquitus",
+    "status": "LC"
+  },
+  {
+    "name": "Heliomaster furcifer",
+    "status": "LC"
+  },
+  {
+    "name": "Heliomaster squamosus",
+    "status": "LC"
+  },
+  {
+    "name": "Leucochloris albicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Glaucis hirsutus",
+    "status": "LC"
+  },
+  {
+    "name": "Chionomesa lactea",
+    "status": "LC"
+  },
+  {
+    "name": "Chionomesa fimbriata",
+    "status": "LC"
+  },
+  {
+    "name": "Heliothryx auritus",
+    "status": "LC"
+  },
+  {
+    "name": "Clytolaema rubricauda",
+    "status": "LC"
+  },
+  {
+    "name": "Calliphlox amethystina",
+    "status": "LC"
+  },
+  {
+    "name": "Hylocharis sapphirina",
+    "status": "LC"
+  },
+  {
+    "name": "Thalurania glaucopis",
+    "status": "LC"
+  },
+  {
+    "name": "Thalurania furcata",
+    "status": "LC"
+  },
+  {
+    "name": "Trogon viridis",
+    "status": "LC"
+  },
+  {
+    "name": "Trogon rufus",
+    "status": "LC"
+  },
+  {
+    "name": "Trogon surrucura",
+    "status": "LC"
+  },
+  {
+    "name": "Baryphthengus ruficapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Megaceryle torquata",
+    "status": "LC"
+  },
+  {
+    "name": "Chloroceryle americana",
+    "status": "LC"
+  },
+  {
+    "name": "Chloroceryle amazona",
+    "status": "LC"
+  },
+  {
+    "name": "Notharchus macrorhynchos",
+    "status": "LC"
+  },
+  {
+    "name": "Notharchus swainsoni",
+    "status": "LC"
+  },
+  {
+    "name": "Nystalus chacuru",
+    "status": "LC"
+  },
+  {
+    "name": "Chelidoptera tenebrosa",
+    "status": "LC"
+  },
+  {
+    "name": "Malacoptila striata",
+    "status": "LC"
+  },
+  {
+    "name": "Nonnula rubecula",
+    "status": "LC"
+  },
+  {
+    "name": "Jacamaralcyon tridactyla",
+    "status": "NT"
+  },
+  {
+    "name": "Galbula ruficauda",
+    "status": "LC"
+  },
+  {
+    "name": "Ramphastos toco",
+    "status": "LC"
+  },
+  {
+    "name": "Selenidera maculirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Ramphastos vitellinus",
+    "status": "LC"
+  },
+  {
+    "name": "Ramphastos dicolorus",
+    "status": "LC"
+  },
+  {
+    "name": "Pteroglossus aracari",
+    "status": "LC"
+  },
+  {
+    "name": "Dryobates passerinus",
+    "status": "LC"
+  },
+  {
+    "name": "Celeus flavescens",
+    "status": "LC"
+  },
+  {
+    "name": "Melanerpes flavifrons",
+    "status": "LC"
+  },
+  {
+    "name": "Campephilus robustus",
+    "status": "LC"
+  },
+  {
+    "name": "Colaptes campestris",
+    "status": "LC"
+  },
+  {
+    "name": "Piculus aurulentus",
+    "status": "NT"
+  },
+  {
+    "name": "Piculus chrysochloros",
+    "status": "LC"
+  },
+  {
+    "name": "Dryobates spilogaster",
+    "status": "LC"
+  },
+  {
+    "name": "Dryocopus lineatus",
+    "status": "LC"
+  },
+  {
+    "name": "Piculus flavigula",
+    "status": "LC"
+  },
+  {
+    "name": "Picumnus albosquamatus",
+    "status": "LC"
+  },
+  {
+    "name": "Melanerpes candidus",
+    "status": "LC"
+  },
+  {
+    "name": "Campephilus melanoleucos",
+    "status": "LC"
+  },
+  {
+    "name": "Picumnus cirratus",
+    "status": "LC"
+  },
+  {
+    "name": "Picumnus minutissimus",
+    "status": "LC"
+  },
+  {
+    "name": "Picumnus temminckii",
+    "status": "LC"
+  },
+  {
+    "name": "Colaptes melanochloros",
+    "status": "LC"
+  },
+  {
+    "name": "Dryobates maculifrons",
+    "status": "LC"
+  },
+  {
+    "name": "Melanerpes cactorum",
+    "status": "LC"
+  },
+  {
+    "name": "Dryobates mixtus",
+    "status": "LC"
+  },
+  {
+    "name": "Cariama cristata",
+    "status": "LC"
+  },
+  {
+    "name": "Caracara plancus",
+    "status": "LC"
+  },
+  {
+    "name": "Falco femoralis",
+    "status": "LC"
+  },
+  {
+    "name": "Falco peregrinus",
+    "status": "LC"
+  },
+  {
+    "name": "Falco rufigularis",
+    "status": "LC"
+  },
+  {
+    "name": "Falco sparverius",
+    "status": "LC"
+  },
+  {
+    "name": "Milvago chimachima",
+    "status": "LC"
+  },
+  {
+    "name": "Milvago chimango",
+    "status": "LC"
+  },
+  {
+    "name": "Micrastur ruficollis",
+    "status": "LC"
+  },
+  {
+    "name": "Micrastur semitorquatus",
+    "status": "LC"
+  },
+  {
+    "name": "Herpetotheres cachinnans",
+    "status": "LC"
+  },
+  {
+    "name": "Pionus maximiliani",
+    "status": "LC"
+  },
+  {
+    "name": "Diopsittaca nobilis",
+    "status": "LC"
+  },
+  {
+    "name": "Brotogeris chiriri",
+    "status": "LC"
+  },
+  {
+    "name": "Pyrrhura frontalis",
+    "status": "LC"
+  },
+  {
+    "name": "Pyrrhura leucotis",
+    "status": "VU"
+  },
+  {
+    "name": "Amazona vinacea",
+    "status": "EN"
+  },
+  {
+    "name": "Aratinga auricapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Alipiopsitta xanthops",
+    "status": "NT"
+  },
+  {
+    "name": "Pionopsitta pileata",
+    "status": "LC"
+  },
+  {
+    "name": "Eupsittula aurea",
+    "status": "LC"
+  },
+  {
+    "name": "Forpus xanthopterygius",
+    "status": "LC"
+  },
+  {
+    "name": "Brotogeris tirica",
+    "status": "LC"
+  },
+  {
+    "name": "Triclaria malachitacea",
+    "status": "LC"
+  },
+  {
+    "name": "Primolius maracana",
+    "status": "NT"
+  },
+  {
+    "name": "Touit melanonotus",
+    "status": "NT"
+  },
+  {
+    "name": "Amazona aestiva",
+    "status": "NT"
+  },
+  {
+    "name": "Amazona rhodocorytha",
+    "status": "VU"
+  },
+  {
+    "name": "Ara ararauna",
+    "status": "LC"
+  },
+  {
+    "name": "Psittacara leucophthalmus",
+    "status": "LC"
+  },
+  {
+    "name": "Thamnophilus torquatus",
+    "status": "LC"
+  },
+  {
+    "name": "Thamnophilus ruficapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Drymophila ferruginea",
+    "status": "LC"
+  },
+  {
+    "name": "Drymophila malura",
+    "status": "LC"
+  },
+  {
+    "name": "Drymophila ochropyga",
+    "status": "NT"
+  },
+  {
+    "name": "Drymophila rubricollis",
+    "status": "LC"
+  },
+  {
+    "name": "Thamnophilus pelzelni",
+    "status": "LC"
+  },
+  {
+    "name": "Drymophila squamata",
+    "status": "LC"
+  },
+  {
+    "name": "Terenura maculata",
+    "status": "LC"
+  },
+  {
+    "name": "Thamnophilus palliatus",
+    "status": "LC"
+  },
+  {
+    "name": "Pyriglena leucoptera",
+    "status": "LC"
+  },
+  {
+    "name": "Thamnophilus doliatus",
+    "status": "LC"
+  },
+  {
+    "name": "Thamnophilus caerulescens",
+    "status": "LC"
+  },
+  {
+    "name": "Thamnophilus ambiguus",
+    "status": "LC"
+  },
+  {
+    "name": "Formicivora rufa",
+    "status": "LC"
+  },
+  {
+    "name": "Formicivora serrana",
+    "status": "LC"
+  },
+  {
+    "name": "Myrmotherula axillaris",
+    "status": "LC"
+  },
+  {
+    "name": "Myrmotherula minor",
+    "status": "VU"
+  },
+  {
+    "name": "Rhopias gularis",
+    "status": "LC"
+  },
+  {
+    "name": "Dysithamnus mentalis",
+    "status": "LC"
+  },
+  {
+    "name": "Taraba major",
+    "status": "LC"
+  },
+  {
+    "name": "Batara cinerea",
+    "status": "LC"
+  },
+  {
+    "name": "Dysithamnus stictothorax",
+    "status": "NT"
+  },
+  {
+    "name": "Hypoedaleus guttatus",
+    "status": "LC"
+  },
+  {
+    "name": "Mackenziaena severa",
+    "status": "LC"
+  },
+  {
+    "name": "Mackenziaena leachii",
+    "status": "LC"
+  },
+  {
+    "name": "Herpsilochmus atricapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Herpsilochmus longirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Herpsilochmus rufimarginatus",
+    "status": "LC"
+  },
+  {
+    "name": "Myrmoderus loricatus",
+    "status": "LC"
+  },
+  {
+    "name": "Melanopareia torquata",
+    "status": "LC"
+  },
+  {
+    "name": "Conopophaga melanops",
+    "status": "LC"
+  },
+  {
+    "name": "Conopophaga lineata",
+    "status": "LC"
+  },
+  {
+    "name": "Scytalopus iraiensis",
+    "status": "EN"
+  },
+  {
+    "name": "Scytalopus petrophilus",
+    "status": "LC"
+  },
+  {
+    "name": "Scytalopus speluncae",
+    "status": "LC"
+  },
+  {
+    "name": "Psilorhamphus guttatus",
+    "status": "LC"
+  },
+  {
+    "name": "Scytalopus novacapitalis",
+    "status": "EN"
+  },
+  {
+    "name": "Eleoscytalopus indigoticus",
+    "status": "LC"
+  },
+  {
+    "name": "Chamaeza meruloides",
+    "status": "LC"
+  },
+  {
+    "name": "Chamaeza campanisona",
+    "status": "LC"
+  },
+  {
+    "name": "Formicarius colma",
+    "status": "LC"
+  },
+  {
+    "name": "Chamaeza ruficauda",
+    "status": "LC"
+  },
+  {
+    "name": "Dendrocolaptes platyrostris",
+    "status": "LC"
+  },
+  {
+    "name": "Furnarius figulus",
+    "status": "LC"
+  },
+  {
+    "name": "Furnarius leucopus",
+    "status": "LC"
+  },
+  {
+    "name": "Furnarius rufus",
+    "status": "LC"
+  },
+  {
+    "name": "Lochmias nematura",
+    "status": "LC"
+  },
+  {
+    "name": "Thripophaga macroura",
+    "status": "VU"
+  },
+  {
+    "name": "Pseudoseisura cristata",
+    "status": "LC"
+  },
+  {
+    "name": "Dendrocincla fuliginosa",
+    "status": "LC"
+  },
+  {
+    "name": "Dendrocincla turdina",
+    "status": "LC"
+  },
+  {
+    "name": "Syndactyla rufosuperciliata",
+    "status": "LC"
+  },
+  {
+    "name": "Syndactyla dimidiata",
+    "status": "LC"
+  },
+  {
+    "name": "Synallaxis spixi",
+    "status": "LC"
+  },
+  {
+    "name": "Synallaxis scutata",
+    "status": "LC"
+  },
+  {
+    "name": "Synallaxis ruficapilla",
+    "status": "LC"
+  },
+  {
+    "name": "Synallaxis hypospodia",
+    "status": "LC"
+  },
+  {
+    "name": "Synallaxis frontalis",
+    "status": "LC"
+  },
+  {
+    "name": "Synallaxis cinerea",
+    "status": "NT"
+  },
+  {
+    "name": "Synallaxis cinerascens",
+    "status": "LC"
+  },
+  {
+    "name": "Synallaxis albescens",
+    "status": "LC"
+  },
+  {
+    "name": "Campylorhamphus falcularius",
+    "status": "LC"
+  },
+  {
+    "name": "Cranioleuca pallida",
+    "status": "LC"
+  },
+  {
+    "name": "Cranioleuca vulpina",
+    "status": "LC"
+  },
+  {
+    "name": "Clibanornis rectirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Automolus leucophthalmus",
+    "status": "LC"
+  },
+  {
+    "name": "Geositta poeciloptera",
+    "status": "VU"
+  },
+  {
+    "name": "Lepidocolaptes squamatus",
+    "status": "LC"
+  },
+  {
+    "name": "Lepidocolaptes angustirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Glyphorynchus spirurus",
+    "status": "LC"
+  },
+  {
+    "name": "Heliobletus contaminatus",
+    "status": "LC"
+  },
+  {
+    "name": "Anumbius annumbi",
+    "status": "LC"
+  },
+  {
+    "name": "Cichlocolaptes leucophrus",
+    "status": "LC"
+  },
+  {
+    "name": "Phacellodomus erythrophthalmus",
+    "status": "LC"
+  },
+  {
+    "name": "Phacellodomus ferrugineigula",
+    "status": "LC"
+  },
+  {
+    "name": "Schoeniophylax phryganophilus",
+    "status": "LC"
+  },
+  {
+    "name": "Phacellodomus rufifrons",
+    "status": "LC"
+  },
+  {
+    "name": "Cinclodes pabsti",
+    "status": "NT"
+  },
+  {
+    "name": "Sclerurus scansor",
+    "status": "LC"
+  },
+  {
+    "name": "Xenops minutus",
+    "status": "LC"
+  },
+  {
+    "name": "Xenops rutilans",
+    "status": "LC"
+  },
+  {
+    "name": "Xiphocolaptes albicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Xiphorhynchus fuscus",
+    "status": "LC"
+  },
+  {
+    "name": "Anabazenops fuscus",
+    "status": "LC"
+  },
+  {
+    "name": "Certhiaxis cinnamomeus",
+    "status": "LC"
+  },
+  {
+    "name": "Anabacerthia lichtensteini",
+    "status": "LC"
+  },
+  {
+    "name": "Philydor atricapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Sittasomus griseicapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Asthenes luizae",
+    "status": "NT"
+  },
+  {
+    "name": "Asthenes moreirae",
+    "status": "LC"
+  },
+  {
+    "name": "Myiopagis viridicata",
+    "status": "LC"
+  },
+  {
+    "name": "Myiarchus tyrannulus",
+    "status": "LC"
+  },
+  {
+    "name": "Myiodynastes maculatus",
+    "status": "LC"
+  },
+  {
+    "name": "Colonia colonus",
+    "status": "LC"
+  },
+  {
+    "name": "Capsiempis flaveola",
+    "status": "LC"
+  },
+  {
+    "name": "Myiopagis caniceps",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia spectabilis",
+    "status": "LC"
+  },
+  {
+    "name": "Euscarthmus rufomarginatus",
+    "status": "NT"
+  },
+  {
+    "name": "Gubernetes yetapa",
+    "status": "LC"
+  },
+  {
+    "name": "Myiophobus fasciatus",
+    "status": "LC"
+  },
+  {
+    "name": "Myiornis auricularis",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia cristata",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia flavogaster",
+    "status": "LC"
+  },
+  {
+    "name": "Myiozetetes cayanensis",
+    "status": "LC"
+  },
+  {
+    "name": "Myiozetetes similis",
+    "status": "LC"
+  },
+  {
+    "name": "Euscarthmus meloryphus",
+    "status": "LC"
+  },
+  {
+    "name": "Hirundinea ferruginea",
+    "status": "LC"
+  },
+  {
+    "name": "Satrapa icterophrys",
+    "status": "LC"
+  },
+  {
+    "name": "Serpophaga subcristata",
+    "status": "LC"
+  },
+  {
+    "name": "Sublegatus modestus",
+    "status": "LC"
+  },
+  {
+    "name": "Fluvicola nengeta",
+    "status": "LC"
+  },
+  {
+    "name": "Platyrinchus mystaceus",
+    "status": "LC"
+  },
+  {
+    "name": "Attila rufus",
+    "status": "LC"
+  },
+  {
+    "name": "Knipolegus cyanirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Xolmis velatus",
+    "status": "LC"
+  },
+  {
+    "name": "Xolmis irupero",
+    "status": "LC"
+  },
+  {
+    "name": "Cnemotriccus fuscatus",
+    "status": "LC"
+  },
+  {
+    "name": "Contopus cinereus",
+    "status": "LC"
+  },
+  {
+    "name": "Camptostoma obsoletum",
+    "status": "LC"
+  },
+  {
+    "name": "Phaeomyias murina",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia mesoleuca",
+    "status": "LC"
+  },
+  {
+    "name": "Empidonomus aurantioatrocristatus",
+    "status": "LC"
+  },
+  {
+    "name": "Poecilotriccus plumbeiceps",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia albiceps",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia obscura",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia chiriquensis",
+    "status": "LC"
+  },
+  {
+    "name": "Knipolegus nigerrimus",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia parvirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Suiriri suiriri",
+    "status": "LC"
+  },
+  {
+    "name": "Pitangus lictor",
+    "status": "LC"
+  },
+  {
+    "name": "Lathrotriccus euleri",
+    "status": "LC"
+  },
+  {
+    "name": "Phyllomyias fasciatus",
+    "status": "LC"
+  },
+  {
+    "name": "Tolmomyias sulphurescens",
+    "status": "LC"
+  },
+  {
+    "name": "Todirostrum poliocephalum",
+    "status": "LC"
+  },
+  {
+    "name": "Machetornis rixosa",
+    "status": "LC"
+  },
+  {
+    "name": "Rhytipterna simplex",
+    "status": "LC"
+  },
+  {
+    "name": "Todirostrum cinereum",
+    "status": "LC"
+  },
+  {
+    "name": "Legatus leucophaius",
+    "status": "LC"
+  },
+  {
+    "name": "Leptopogon amaurocephalus",
+    "status": "LC"
+  },
+  {
+    "name": "Alectrurus tricolor",
+    "status": "VU"
+  },
+  {
+    "name": "Pitangus sulphuratus",
+    "status": "LC"
+  },
+  {
+    "name": "Culicivora caudacuta",
+    "status": "VU"
+  },
+  {
+    "name": "Phylloscartes ventralis",
+    "status": "LC"
+  },
+  {
+    "name": "Pyrocephalus rubinus",
+    "status": "LC"
+  },
+  {
+    "name": "Casiornis rufus",
+    "status": "LC"
+  },
+  {
+    "name": "Sirystes sibilator",
+    "status": "LC"
+  },
+  {
+    "name": "Megarynchus pitangua",
+    "status": "LC"
+  },
+  {
+    "name": "Arundinicola leucocephala",
+    "status": "LC"
+  },
+  {
+    "name": "Phyllomyias griseocapilla",
+    "status": "NT"
+  },
+  {
+    "name": "Phyllomyias virescens",
+    "status": "LC"
+  },
+  {
+    "name": "Elaenia sordida",
+    "status": "LC"
+  },
+  {
+    "name": "Hemitriccus orbitatus",
+    "status": "NT"
+  },
+  {
+    "name": "Mionectes rufiventris",
+    "status": "LC"
+  },
+  {
+    "name": "Tyrannus albogularis",
+    "status": "LC"
+  },
+  {
+    "name": "Tyrannus melancholicus",
+    "status": "LC"
+  },
+  {
+    "name": "Tyrannus savana",
+    "status": "LC"
+  },
+  {
+    "name": "Tyrannus tyrannus",
+    "status": "LC"
+  },
+  {
+    "name": "Hemitriccus obsoletus",
+    "status": "LC"
+  },
+  {
+    "name": "Hemitriccus nidipendulus",
+    "status": "LC"
+  },
+  {
+    "name": "Hemitriccus margaritaceiventer",
+    "status": "LC"
+  },
+  {
+    "name": "Hemitriccus diops",
+    "status": "LC"
+  },
+  {
+    "name": "Corythopis delalandi",
+    "status": "LC"
+  },
+  {
+    "name": "Muscipipra vetula",
+    "status": "LC"
+  },
+  {
+    "name": "Phylloscartes eximius",
+    "status": "LC"
+  },
+  {
+    "name": "Phylloscartes sylviolus",
+    "status": "NT"
+  },
+  {
+    "name": "Empidonomus varius",
+    "status": "LC"
+  },
+  {
+    "name": "Conopias trivirgatus",
+    "status": "LC"
+  },
+  {
+    "name": "Serpophaga nigricans",
+    "status": "LC"
+  },
+  {
+    "name": "Phyllomyias burmeisteri",
+    "status": "LC"
+  },
+  {
+    "name": "Myiarchus ferox",
+    "status": "LC"
+  },
+  {
+    "name": "Myiarchus swainsoni",
+    "status": "LC"
+  },
+  {
+    "name": "Polystictus superciliaris",
+    "status": "LC"
+  },
+  {
+    "name": "Knipolegus lophotes",
+    "status": "LC"
+  },
+  {
+    "name": "Myiarchus tuberculifer",
+    "status": "LC"
+  },
+  {
+    "name": "Myiobius atricaudus",
+    "status": "LC"
+  },
+  {
+    "name": "Myiobius barbatus",
+    "status": "LC"
+  },
+  {
+    "name": "Oxyruncus cristatus",
+    "status": "LC"
+  },
+  {
+    "name": "Procnias nudicollis",
+    "status": "NT"
+  },
+  {
+    "name": "Lipaugus lanioides",
+    "status": "NT"
+  },
+  {
+    "name": "Pyroderus scutatus",
+    "status": "LC"
+  },
+  {
+    "name": "Lipaugus vociferans",
+    "status": "LC"
+  },
+  {
+    "name": "Carpornis cucullata",
+    "status": "NT"
+  },
+  {
+    "name": "Phibalura flavirostris",
+    "status": "NT"
+  },
+  {
+    "name": "Phoenicircus carnifex",
+    "status": "LC"
+  },
+  {
+    "name": "Manacus manacus",
+    "status": "LC"
+  },
+  {
+    "name": "Neopelma pallescens",
+    "status": "LC"
+  },
+  {
+    "name": "Neopelma chrysolophum",
+    "status": "LC"
+  },
+  {
+    "name": "Neopelma aurifrons",
+    "status": "NT"
+  },
+  {
+    "name": "Ilicura militaris",
+    "status": "LC"
+  },
+  {
+    "name": "Antilophia galeata",
+    "status": "LC"
+  },
+  {
+    "name": "Pipra fasciicauda",
+    "status": "LC"
+  },
+  {
+    "name": "Chiroxiphia caudata",
+    "status": "LC"
+  },
+  {
+    "name": "Tityra cayana",
+    "status": "LC"
+  },
+  {
+    "name": "Iodopleura pipra",
+    "status": "EN"
+  },
+  {
+    "name": "Schiffornis virescens",
+    "status": "LC"
+  },
+  {
+    "name": "Laniisoma elegans",
+    "status": "NT"
+  },
+  {
+    "name": "Pachyramphus viridis",
+    "status": "LC"
+  },
+  {
+    "name": "Pachyramphus validus",
+    "status": "LC"
+  },
+  {
+    "name": "Pachyramphus polychopterus",
+    "status": "LC"
+  },
+  {
+    "name": "Pachyramphus marginatus",
+    "status": "LC"
+  },
+  {
+    "name": "Tityra inquisitor",
+    "status": "LC"
+  },
+  {
+    "name": "Pachyramphus castaneus",
+    "status": "LC"
+  },
+  {
+    "name": "Hylophilus amaurocephalus",
+    "status": "LC"
+  },
+  {
+    "name": "Cyclarhis gujanensis",
+    "status": "LC"
+  },
+  {
+    "name": "Vireo chivi",
+    "status": "LC"
+  },
+  {
+    "name": "Vireo olivaceus",
+    "status": "LC"
+  },
+  {
+    "name": "Hylophilus thoracicus",
+    "status": "LC"
+  },
+  {
+    "name": "Hylophilus poicilotis",
+    "status": "LC"
+  },
+  {
+    "name": "Hylophilus pectoralis",
+    "status": "LC"
+  },
+  {
+    "name": "Cyanocorax cristatellus",
+    "status": "LC"
+  },
+  {
+    "name": "Cyanocorax chrysops",
+    "status": "LC"
+  },
+  {
+    "name": "Cyanocorax cyanopogon",
+    "status": "LC"
+  },
+  {
+    "name": "Petrochelidon pyrrhonota",
+    "status": "LC"
+  },
+  {
+    "name": "Alopochelidon fucata",
+    "status": "LC"
+  },
+  {
+    "name": "Tachycineta albiventer",
+    "status": "LC"
+  },
+  {
+    "name": "Pygochelidon cyanoleuca",
+    "status": "LC"
+  },
+  {
+    "name": "Progne tapera",
+    "status": "LC"
+  },
+  {
+    "name": "Riparia riparia",
+    "status": "LC"
+  },
+  {
+    "name": "Progne subis",
+    "status": "LC"
+  },
+  {
+    "name": "Hirundo rustica",
+    "status": "LC"
+  },
+  {
+    "name": "Progne chalybea",
+    "status": "LC"
+  },
+  {
+    "name": "Stelgidopteryx ruficollis",
+    "status": "LC"
+  },
+  {
+    "name": "Tachycineta leucorrhoa",
+    "status": "LC"
+  },
+  {
+    "name": "Pygochelidon melanoleuca",
+    "status": "LC"
+  },
+  {
+    "name": "Cantorchilus longirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Cantorchilus leucotis",
+    "status": "LC"
+  },
+  {
+    "name": "Cistothorus platensis",
+    "status": "LC"
+  },
+  {
+    "name": "Troglodytes aedon",
+    "status": "LC"
+  },
+  {
+    "name": "Polioptila plumbea",
+    "status": "LC"
+  },
+  {
+    "name": "Polioptila dumicola",
+    "status": "LC"
+  },
+  {
+    "name": "Donacobius atricapilla",
+    "status": "LC"
+  },
+  {
+    "name": "Turdus flavipes",
+    "status": "LC"
+  },
+  {
+    "name": "Turdus subalaris",
+    "status": "LC"
+  },
+  {
+    "name": "Turdus rufiventris",
+    "status": "LC"
+  },
+  {
+    "name": "Turdus nigriceps",
+    "status": "LC"
+  },
+  {
+    "name": "Turdus leucomelas",
+    "status": "LC"
+  },
+  {
+    "name": "Turdus amaurochalinus",
+    "status": "LC"
+  },
+  {
+    "name": "Turdus albicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Mimus saturninus",
+    "status": "LC"
+  },
+  {
+    "name": "Anthus hellmayri",
+    "status": "LC"
+  },
+  {
+    "name": "Anthus nattereri",
+    "status": "VU"
+  },
+  {
+    "name": "Anthus lutescens",
+    "status": "LC"
+  },
+  {
+    "name": "Setophaga pitiayumi",
+    "status": "LC"
+  },
+  {
+    "name": "Geothlypis aequinoctialis",
+    "status": "LC"
+  },
+  {
+    "name": "Myiothlypis flaveola",
+    "status": "LC"
+  },
+  {
+    "name": "Myiothlypis leucoblephara",
+    "status": "LC"
+  },
+  {
+    "name": "Myiothlypis leucophrys",
+    "status": "LC"
+  },
+  {
+    "name": "Basileuterus culicivorus",
+    "status": "LC"
+  },
+  {
+    "name": "Dacnis cayana",
+    "status": "LC"
+  },
+  {
+    "name": "Dacnis nigripes",
+    "status": "NT"
+  },
+  {
+    "name": "Stilpnia cayana",
+    "status": "LC"
+  },
+  {
+    "name": "Ramphocelus bresilius",
+    "status": "LC"
+  },
+  {
+    "name": "Tersina viridis",
+    "status": "LC"
+  },
+  {
+    "name": "Stilpnia preciosa",
+    "status": "LC"
+  },
+  {
+    "name": "Chlorophanes spiza",
+    "status": "LC"
+  },
+  {
+    "name": "Ramphocelus carbo",
+    "status": "LC"
+  },
+  {
+    "name": "Tangara cyanoventris",
+    "status": "LC"
+  },
+  {
+    "name": "Neothraupis fasciata",
+    "status": "NT"
+  },
+  {
+    "name": "Trichothraupis melanops",
+    "status": "LC"
+  },
+  {
+    "name": "Tangara desmaresti",
+    "status": "LC"
+  },
+  {
+    "name": "Tangara seledon",
+    "status": "LC"
+  },
+  {
+    "name": "Coereba flaveola",
+    "status": "LC"
+  },
+  {
+    "name": "Sicalis citrina",
+    "status": "LC"
+  },
+  {
+    "name": "Volatinia jacarina",
+    "status": "LC"
+  },
+  {
+    "name": "Schistochlamys ruficapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Sicalis columbiana",
+    "status": "LC"
+  },
+  {
+    "name": "Sicalis flaveola",
+    "status": "LC"
+  },
+  {
+    "name": "Schistochlamys melanopis",
+    "status": "LC"
+  },
+  {
+    "name": "Paroaria dominicana",
+    "status": "LC"
+  },
+  {
+    "name": "Conirostrum speciosum",
+    "status": "LC"
+  },
+  {
+    "name": "Cypsnagra hirundinacea",
+    "status": "LC"
+  },
+  {
+    "name": "Emberizoides herbicola",
+    "status": "LC"
+  },
+  {
+    "name": "Asemospiza fuliginosa",
+    "status": "LC"
+  },
+  {
+    "name": "Embernagra longicauda",
+    "status": "LC"
+  },
+  {
+    "name": "Embernagra platensis",
+    "status": "LC"
+  },
+  {
+    "name": "Haplospiza unicolor",
+    "status": "LC"
+  },
+  {
+    "name": "Thraupis sayaca",
+    "status": "LC"
+  },
+  {
+    "name": "Thraupis palmarum",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila americana",
+    "status": "LC"
+  },
+  {
+    "name": "Thraupis ornata",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila angolensis",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila ardesiaca",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila bouvreuil",
+    "status": "LC"
+  },
+  {
+    "name": "Thraupis cyanoptera",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila caerulescens",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila collaris",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila falcirostris",
+    "status": "VU"
+  },
+  {
+    "name": "Sporophila frontalis",
+    "status": "VU"
+  },
+  {
+    "name": "Pipraeidea melanonota",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila leucoptera",
+    "status": "LC"
+  },
+  {
+    "name": "Microspingus cinereus",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila lineola",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila melanogaster",
+    "status": "NT"
+  },
+  {
+    "name": "Eucometis penicillata",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila nigricollis",
+    "status": "LC"
+  },
+  {
+    "name": "Sporophila plumbea",
+    "status": "LC"
+  },
+  {
+    "name": "Saltatricula atricollis",
+    "status": "LC"
+  },
+  {
+    "name": "Saltator similis",
+    "status": "LC"
+  },
+  {
+    "name": "Saltator maximus",
+    "status": "LC"
+  },
+  {
+    "name": "Saltator maxillosus",
+    "status": "LC"
+  },
+  {
+    "name": "Thlypopsis sordida",
+    "status": "LC"
+  },
+  {
+    "name": "Saltator fuliginosus",
+    "status": "LC"
+  },
+  {
+    "name": "Iridosornis rufivertex",
+    "status": "LC"
+  },
+  {
+    "name": "Charitospiza eucosma",
+    "status": "NT"
+  },
+  {
+    "name": "Coryphaspiza melanotis",
+    "status": "VU"
+  },
+  {
+    "name": "Cissopis leverianus",
+    "status": "LC"
+  },
+  {
+    "name": "Donacospiza albifrons",
+    "status": "LC"
+  },
+  {
+    "name": "Coryphospingus cucullatus",
+    "status": "LC"
+  },
+  {
+    "name": "Coryphospingus pileatus",
+    "status": "LC"
+  },
+  {
+    "name": "Hemithraupis flavicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Tachyphonus coronatus",
+    "status": "LC"
+  },
+  {
+    "name": "Tachyphonus rufus",
+    "status": "LC"
+  },
+  {
+    "name": "Hemithraupis guira",
+    "status": "LC"
+  },
+  {
+    "name": "Hemithraupis ruficapilla",
+    "status": "LC"
+  },
+  {
+    "name": "Sicalis luteola",
+    "status": "LC"
+  },
+  {
+    "name": "Nemosia pileata",
+    "status": "LC"
+  },
+  {
+    "name": "Arremon flavirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Arremon semitorquatus",
+    "status": "LC"
+  },
+  {
+    "name": "Arremon taciturnus",
+    "status": "LC"
+  },
+  {
+    "name": "Zonotrichia capensis",
+    "status": "LC"
+  },
+  {
+    "name": "Ammodramus humeralis",
+    "status": "LC"
+  },
+  {
+    "name": "Caryothraustes canadensis",
+    "status": "LC"
+  },
+  {
+    "name": "Habia rubica",
+    "status": "LC"
+  },
+  {
+    "name": "Piranga rubra",
+    "status": "LC"
+  },
+  {
+    "name": "Piranga flava",
+    "status": "LC"
+  },
+  {
+    "name": "Amaurospiza moesta",
+    "status": "LC"
+  },
+  {
+    "name": "Cyanoloxia brissonii",
+    "status": "LC"
+  },
+  {
+    "name": "Agelasticus cyanopus",
+    "status": "LC"
+  },
+  {
+    "name": "Molothrus oryzivorus",
+    "status": "LC"
+  },
+  {
+    "name": "Molothrus rufoaxillaris",
+    "status": "LC"
+  },
+  {
+    "name": "Icterus cayanensis",
+    "status": "LC"
+  },
+  {
+    "name": "Icterus jamacaii",
+    "status": "LC"
+  },
+  {
+    "name": "Icterus pyrrhopterus",
+    "status": "LC"
+  },
+  {
+    "name": "Pseudoleistes guirahuro",
+    "status": "LC"
+  },
+  {
+    "name": "Gnorimopsar chopi",
+    "status": "LC"
+  },
+  {
+    "name": "Chrysomus ruficapillus",
+    "status": "LC"
+  },
+  {
+    "name": "Anumara forbesi",
+    "status": "VU"
+  },
+  {
+    "name": "Cacicus haemorrhous",
+    "status": "LC"
+  },
+  {
+    "name": "Cacicus solitarius",
+    "status": "LC"
+  },
+  {
+    "name": "Molothrus bonariensis",
+    "status": "LC"
+  },
+  {
+    "name": "Psarocolius decumanus",
+    "status": "LC"
+  },
+  {
+    "name": "Cacicus cela",
+    "status": "LC"
+  },
+  {
+    "name": "Euphonia chalybea",
+    "status": "NT"
+  },
+  {
+    "name": "Euphonia chlorotica",
+    "status": "LC"
+  },
+  {
+    "name": "Euphonia pectoralis",
+    "status": "LC"
+  },
+  {
+    "name": "Euphonia violacea",
+    "status": "LC"
+  },
+  {
+    "name": "Euphonia xanthogaster",
+    "status": "LC"
+  },
+  {
+    "name": "Chlorophonia cyanea",
+    "status": "LC"
+  },
+  {
+    "name": "Spinus magellanicus",
+    "status": "LC"
+  },
+  {
+    "name": "Passer domesticus",
+    "status": "LC"
+  },
+  {
+    "name": "Estrilda astrild",
+    "status": "LC"
+  },
+  {
+    "name": "Claravis godefrida",
+    "status": "LC"
+  },
+  {
+    "name": "Cyanocompsa brissonii",
+    "status": "LC"
+  },
+  {
+    "name": "Euphonia cyanocephala",
+    "status": "LC"
+  },
+  {
+    "name": "Geothlypis velata",
+    "status": "LC"
+  },
+  {
+    "name": "Harpyhaliaetus coronatus",
+    "status": "CR"
+  },
+  {
+    "name": "Hylocharis cyanus",
+    "status": "LC"
+  },
+  {
+    "name": "Hylocharis leucotis",
+    "status": "LC"
+  },
+  {
+    "name": "Hylocryptus rectirostris",
+    "status": "NT"
+  },
+  {
+    "name": "Hylopezus nattereri",
+    "status": "LC"
+  },
+  {
+    "name": "Larus cirrocephalus",
+    "status": "LC"
+  },
+  {
+    "name": "Leucopternis lacernulatus",
+    "status": "LC"
+  },
+  {
+    "name": "Myrmeciza loricata",
+    "status": "LC"
+  },
+  {
+    "name": "Notiochelidon cyanoleuca",
+    "status": "LC"
+  },
+  {
+    "name": "Orthogonys chloricterus",
+    "status": "LC"
+  },
+  {
+    "name": "Oryzoborus angolensis",
+    "status": "LC"
+  },
+  {
+    "name": "Oryzoborus maximiliani",
+    "status": "LC"
+  },
+  {
+    "name": "Parula pitiayumi",
+    "status": "LC"
+  },
+  {
+    "name": "Phaeothlypis rivularis",
+    "status": "LC"
+  },
+  {
+    "name": "Phalacrocorax brasilianus",
+    "status": "LC"
+  },
+  {
+    "name": "Philydor lichtensteini",
+    "status": "LC"
+  },
+  {
+    "name": "Philydor rufum",
+    "status": "LC"
+  },
+  {
+    "name": "Podager nacunda",
+    "status": "LC"
+  },
+  {
+    "name": "Poospiza cinerea",
+    "status": "LC"
+  },
+  {
+    "name": "Porphyrospiza caerulescens",
+    "status": "NT"
+  },
+  {
+    "name": "Porzana albicollis",
+    "status": "LC"
+  },
+  {
+    "name": "Porzana flaviventer",
+    "status": "LC"
+  },
+  {
+    "name": "Pseudoscops clamator",
+    "status": "LC"
+  },
+  {
+    "name": "Ramphocelus bresilia",
+    "status": "LC"
+  },
+  {
+    "name": "Saltator atricollis",
+    "status": "LC"
+  },
+  {
+    "name": "Sterna superciliaris",
+    "status": "LC"
+  },
+  {
+    "name": "Strix huhula",
+    "status": "LC"
+  },
+  {
+    "name": "Strix virgata",
+    "status": "LC"
+  },
+  {
+    "name": "Tachyphonus cristatus",
+    "status": "LC"
+  },
+  {
+    "name": "Tangara cayana",
+    "status": "LC"
+  },
+  {
+    "name": "Thryothorus genibarbis",
+    "status": "LC"
+  },
+  {
+    "name": "Thryothorus leucotis",
+    "status": "LC"
+  },
+  {
+    "name": "Thryothorus longirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Tijuca atra",
+    "status": "LC"
+  },
+  {
+    "name": "Veniliornis maculifrons",
+    "status": "LC"
+  },
+  {
+    "name": "Veniliornis mixtus",
+    "status": "LC"
+  },
+  {
+    "name": "Veniliornis passerinus",
+    "status": "LC"
+  },
+  {
+    "name": "Xolmis cinereus",
+    "status": "LC"
+  },
+  {
+    "name": "Accipiter erythronemius",
+    "status": "LC"
+  },
+  {
+    "name": "Amazilia fimbriata",
+    "status": "LC"
+  },
+  {
+    "name": "Amazilia lactea",
+    "status": "LC"
+  },
+  {
+    "name": "Amazilia versicolor",
+    "status": "LC"
+  },
+  {
+    "name": "Anas platyrhynchos (Domestic type)",
+    "status": "LC"
+  },
+  {
+    "name": "Anser sp. (Domestic type)",
+    "status": "LC"
+  },
+  {
+    "name": "Aphantochroa cirrochloris",
+    "status": "LC"
+  },
+  {
+    "name": "Aramides cajanea",
+    "status": "LC"
+  },
+  {
+    "name": "Aratinga aurea",
+    "status": "LC"
+  },
+  {
+    "name": "Aratinga leucophthalma",
+    "status": "LC"
+  },
+  {
+    "name": "Basileuterus hypoleucus",
+    "status": "LC"
+  },
+  {
+    "name": "Basileuterus leucophrys",
+    "status": "LC"
+  },
+  {
+    "name": "Buteo albicaudatus",
+    "status": "LC"
+  },
+  {
+    "name": "Buteo leucorrhous",
+    "status": "LC"
+  },
+  {
+    "name": "Buteo magnirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Cairina moschata (Domestic type)",
+    "status": "LC"
+  },
+  {
+    "name": "Caprimulgus longirostris",
+    "status": "LC"
+  },
+  {
+    "name": "Caprimulgus maculicaudus",
+    "status": "LC"
+  },
+  {
+    "name": "Caprimulgus parvulus",
+    "status": "LC"
+  },
+  {
+    "name": "Caprimulgus rufus",
+    "status": "LC"
+  },
+  {
+    "name": "Caprimulgus sericocaudatus",
+    "status": "LC"
+  },
+  {
+    "name": "Caracara cheriway",
+    "status": "LC"
+  },
+  {
+    "name": "Carduelis magellanica",
+    "status": "LC"
+  },
+  {
+    "name": "Casmerodius albus",
+    "status": "LC"
+  }
+]

@@ -7,6 +7,7 @@ import {
   Dialog,
   DialogTitle,
   DialogContent,
+  DialogActions,
   Typography,
   Button,
   Grid,
@@ -23,13 +24,20 @@ type StatusData = {
   percentage: number;
 };
 
-type PieChartData = {
-  data: StatusData[];
+type Species = {
+  name: string;
+  status: string;
 };
 
-export default function PieChartWithDialog({ data }: PieChartData) {
+type PieChartData = {
+  data: StatusData[];
+  species: Species[];
+};
+
+export default function PieChartWithDialog({ data, species }: PieChartData) {
   const [open, setOpen] = useState(false);
   const [selectedStatus, setSelectedStatus] = useState<StatusData | null>(null);
+  const [speciesList, setSpeciesList] = useState<Species[]>([]);
 
   const chartData = {
     labels: data.map((d) => d.status),
@@ -46,45 +54,64 @@ export default function PieChartWithDialog({ data }: PieChartData) {
   };
 
   const options = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        display: true,
+        position: "bottom" as const,
+      },
+    },
     onClick: (event: ChartEvent, elements: ActiveElement[]) => {
       if (elements.length > 0) {
         const index = elements[0].index;
-        setSelectedStatus(data[index]);
+        const clickedStatus = data[index];
+        const list = species.filter((s) => s.status === clickedStatus.acronym);
+        setSelectedStatus(clickedStatus);
+        setSpeciesList(list);
         setOpen(true);
       }
     },
     onHover: (event: ChartEvent, elements: ActiveElement[]) => {
       const canvas = event.native?.target as HTMLCanvasElement;
-      if (elements.length > 0) {
-        canvas.style.cursor = "pointer";
-      } else {
-        canvas.style.cursor = "default";
-      }
+      canvas.style.cursor = elements.length ? "pointer" : "default";
     },
   };
 
   return (
     <Grid container justifyContent="center" spacing={2}>
-      <Grid size={{ xs: 12, sm: 6, md: 4 }}>
-        <Box>
+      <Grid size={{ xs: 12, sm: 8, md: 6 }}>
+        <Box sx={{ height: 300 }}>
           <Pie data={chartData} options={options} />
           <Dialog
             open={open}
             onClose={() => setOpen(false)}
             fullWidth
-            maxWidth="xs"
+            maxWidth="sm"
           >
             <DialogTitle>{selectedStatus?.status}</DialogTitle>
-            <DialogContent>
-              <Typography>Count: {selectedStatus?.count}</Typography>
-              <Typography>Percentage: {selectedStatus?.percentage}%</Typography>
-              {selectedStatus?.count === 0 && (
+            <DialogContent dividers>
+              <Typography gutterBottom>
+                Count: {selectedStatus?.count}
+              </Typography>
+              <Typography gutterBottom>
+                Percentage: {selectedStatus?.percentage}%
+              </Typography>
+              {speciesList.length > 0 ? (
+                <Box component="ul" sx={{ pl: 2 }}>
+                  {speciesList.map((s) => (
+                    <li key={s.name}>{s.name}</li>
+                  ))}
+                </Box>
+              ) : (
                 <Typography>No species recorded</Typography>
               )}
             </DialogContent>
-            <Button variant="contained" onClick={() => setOpen(false)}>
-              Close
-            </Button>
+            <DialogActions>
+              <Button variant="contained" onClick={() => setOpen(false)}>
+                Close
+              </Button>
+            </DialogActions>
           </Dialog>
         </Box>
       </Grid>
