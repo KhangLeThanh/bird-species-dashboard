@@ -1,3 +1,4 @@
+import { useState } from "react";
 import {
   Table,
   TableBody,
@@ -8,7 +9,7 @@ import {
   Paper,
   TableSortLabel,
 } from "@mui/material";
-import { useState } from "react";
+import { BirdStatus } from "../enum";
 
 type Species = {
   acronym: string;
@@ -23,6 +24,12 @@ type SpeciesTableType = {
 
 type Order = "asc" | "desc";
 
+const rowColors: Record<string, { bg: string; color: string }> = {
+  EN: { bg: "#f44336", color: "#fff" },
+  CR: { bg: "#b71c1c", color: "#fff" },
+  ZERO: { bg: "#e8e3e3", color: "#000" },
+  DEFAULT: { bg: "#fff", color: "#000" },
+};
 export default function SpeciesTable({ data }: SpeciesTableType) {
   const [order, setOrder] = useState<Order>("asc");
   const [orderBy, setOrderBy] = useState<keyof Species>("count");
@@ -71,28 +78,22 @@ export default function SpeciesTable({ data }: SpeciesTableType) {
         </TableHead>
         <TableBody>
           {sortedData.map((d) => {
-            let bgColor = "#fff";
-            let fontColor = "#000";
+            let { bg, color } = rowColors.DEFAULT;
 
-            if (d.count > 0) {
-              if (d.acronym === "EN") {
-                bgColor = "#f44336";
-                fontColor = "#fff";
-              }
-              if (d.acronym === "CR") {
-                bgColor = "#b71c1c";
-                fontColor = "#fff";
-              }
-            } else if (d.count === 0) {
-              bgColor = "#f5f5f5";
+            if (d.count === 0) {
+              ({ bg, color } = rowColors.ZERO);
+            } else if (d.acronym === BirdStatus.EN) {
+              ({ bg, color } = rowColors.EN);
+            } else if (d.acronym === BirdStatus.CR) {
+              ({ bg, color } = rowColors.CR);
             }
 
             return (
-              <TableRow key={d.acronym} sx={{ bgcolor: bgColor }}>
-                <TableCell sx={{ color: fontColor }}>{d.acronym}</TableCell>
-                <TableCell sx={{ color: fontColor }}>{d.status}</TableCell>
-                <TableCell sx={{ color: fontColor }}>{d.count}</TableCell>
-                <TableCell sx={{ color: fontColor }}>{d.percentage}%</TableCell>
+              <TableRow key={d.acronym} sx={{ bgcolor: bg }}>
+                <TableCell sx={{ color: color }}>{d.acronym}</TableCell>
+                <TableCell sx={{ color: color }}>{d.status}</TableCell>
+                <TableCell sx={{ color: color }}>{d.count}</TableCell>
+                <TableCell sx={{ color: color }}>{d.percentage}%</TableCell>
               </TableRow>
             );
           })}

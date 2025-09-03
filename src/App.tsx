@@ -6,6 +6,7 @@ import SummaryCard from "./components/SummaryCard";
 import PieChartWithDialog from "./components/PieChartWithDialog";
 import BarChartIUCN from "./components/BarChartIUCN";
 import SpeciesTable from "./components/SpeciesTable";
+import { BirdStatus } from "./enum";
 
 function App() {
   const [tab, setTab] = useState("1");
@@ -15,14 +16,14 @@ function App() {
   const totalL1Species = L1.reduce((sum, bird) => sum + bird.count, 0);
 
   const endangeredL1Count =
-    L1.find((bird) => bird.acronym === "EN")?.count || 0;
+    L1.find((bird) => bird.acronym === BirdStatus.EN)?.count || 0;
   const criticallyEndangeredL1Count =
-    L1.find((bird) => bird.acronym === "CR")?.count || 0;
+    L1.find((bird) => bird.acronym === BirdStatus.CR)?.count || 0;
 
   const endangeredL3Count =
-    L3.find((bird) => bird.acronym === "EN")?.count || 0;
+    L3.find((bird) => bird.acronym === BirdStatus.EN)?.count || 0;
   const criticallyEndangeredL3Count =
-    L3.find((bird) => bird.acronym === "CR")?.count || 0;
+    L3.find((bird) => bird.acronym === BirdStatus.CR)?.count || 0;
   return (
     <Grid container spacing={2} mb={3} justifyContent="center">
       <Grid size={{ xs: 12, sm: 10, md: 8, lg: 6 }}>

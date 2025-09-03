@@ -60,7 +60,7 @@ export default function BarChartIUCN({ data }: BarChartData) {
   };
 
   return (
-    <div style={{ height: 300 }}>
+    <div style={{ height: 400 }}>
       <Bar data={chartData} options={options} />
     </div>
   );

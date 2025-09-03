@@ -1,4 +1,7 @@
-import { Card, CardContent, Typography, Grid } from "@mui/material";
+import { Card, CardContent, Typography, Grid, Box } from "@mui/material";
+import FlutterDashIcon from "@mui/icons-material/FlutterDash";
+import WarningAmberIcon from "@mui/icons-material/WarningAmber";
+import ReportProblemIcon from "@mui/icons-material/ReportProblem";
 
 type SummaryCardType = {
   total: number;
@@ -16,7 +19,11 @@ export default function SummaryCard({
       <Grid size={{ xs: 12, sm: 4 }}>
         <Card>
           <CardContent>
-            <Typography variant="subtitle2">Total Species</Typography>
+            <Box display="flex" alignItems="center" gap={1}>
+              <FlutterDashIcon color="primary" />
+
+              <Typography variant="subtitle2">Total Species</Typography>
+            </Box>
             <Typography variant="h5">{total}</Typography>
           </CardContent>
         </Card>
@@ -24,9 +31,12 @@ export default function SummaryCard({
       <Grid size={{ xs: 12, sm: 4 }}>
         <Card>
           <CardContent sx={{ backgroundColor: "#f44336" }}>
-            <Typography variant="subtitle2" sx={{ color: "#fff" }}>
-              Endangered
-            </Typography>
+            <Box display="flex" alignItems="center" gap={1}>
+              <WarningAmberIcon sx={{ color: "#fff" }} />
+              <Typography variant="subtitle2" sx={{ color: "#fff" }}>
+                Endangered
+              </Typography>
+            </Box>
             <Typography variant="h5" sx={{ color: "#fff" }}>
               {endangered}
             </Typography>
@@ -36,9 +46,12 @@ export default function SummaryCard({
       <Grid size={{ xs: 12, sm: 4 }}>
         <Card>
           <CardContent sx={{ backgroundColor: "#b71c1c" }}>
-            <Typography variant="subtitle2" sx={{ color: "#fff" }}>
-              Critically Endangered
-            </Typography>
+            <Box display="flex" alignItems="center" gap={1}>
+              <ReportProblemIcon sx={{ color: "#fff" }} />
+              <Typography variant="subtitle2" sx={{ color: "#fff" }}>
+                Critically Endangered
+              </Typography>
+            </Box>
             <Typography variant="h5" sx={{ color: "#fff" }}>
               {criticallyEndangered}
             </Typography>
