@@ -36,7 +36,9 @@ The app helps both technical and non-technical audiences explore species distrib
 git clone https://github.com/KhangLeThanh/bird-species-dashboard
 cd bird-species-dashboard
 
-### Install Dependencies
+```
+
+### 2 Clone the repository
 
 ```
 
@@ -57,6 +59,8 @@ npm run serve
 ```
 
 npm run test
+
+```
 
 ```
 
