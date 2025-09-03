@@ -5,20 +5,35 @@ The app helps both technical and non-technical audiences explore species distrib
 
 ---
 
-## Features
+## **Features**
 
 - **Two datasets (L1 & L3)** displayed in separate tabs:
   - **L1** – All species captured
   - **L3** – Species captured by 2+ models (unique species)
-- **Summary cards** showing total, endangered, and critically endangered species
-- **Pie chart** with clickable segments → opens a dialog to view details
-- **Bar chart** with color-coded categories and data labels
-- **Sortable table** (count & percentage) with highlighted endangered categories
-- **Responsive design** – works on both large screens and mobile
+- **Summary cards** showing total species, endangered, and critically endangered counts
+- **Interactive pie chart**:
+  - Color-coded by IUCN status
+  - Clickable segments open a dialog listing species in that category
+- **Bar chart** with:
+  - Color-coded categories matching threat levels
+  - Counts displayed as data labels
+- **Sortable table**:
+  - Columns for count and percentage
+  - Highlighted rows for endangered and critically endangered categories
+- **Responsive design**:
+  - Centers content on large screens
+  - Full-width layout on smaller screens for mobile devices
 
 ---
 
-## 🛠️ Tech Stack
+## **Data**
+
+- `L1` → All species aggregated counts per IUCN status
+- `L1Species.json` → List of all species with `name` and `status`
+- `L3` → Species captured by 2+ AI models (aggregated counts)
+- `L3Species.json` → List of L3 species
+
+## Tech Stack
 
 - **Vite** – fast React bundler
 - **React 18** – frontend framework
